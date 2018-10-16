@@ -1,0 +1,1159 @@
+﻿TITLE:   The iPad And Chrome OS Netbooks Are On A CollisionCourse
+
+POSTER:  POSTER_1
+POSTING: 12793
+POSTED:  Jan 29, 2010 
+
+
+BEGIN POSTING 12793
+
+<IMAGE/>
+
+*Netbooks aren't better at anything*.
+
+Those two quotes are both from Apple CEO <URL/> Steve Jobs. The first was during an earnings call 
+in late 2008 when Jobs fielded a question about why Apple wasn't cutting prices amid the rising 
+success of netbooks. The second came on Wednesday as Jobs was <URL/> unveiling the iPad.
+
+Apple has made it clear all along that they had no plans to build a netbook. And true to their 
+word, they haven't. But that doesn't mean that Apple didn't feel there was a need for a device that 
+resided in between a full laptop and a mobile phone — in fact, that's squarely where Apple is 
+positioning the iPad. With it, they feel that they've created a $500 (for the baseline version) 
+device that is superior to every netbook out there.
+
+Meanwhile, Google has decided to target the market in between the laptop and the mobile phone as 
+well. But whereas Apple is anti-netbook, Google is very pro-netbook — they just want to make them 
+better. That's the reason behind Google's Chrome OS, as Google clearly laid out during <URL/> its 
+unveiling event late last year.
+
+And so yes, we once again have Google and Apple on a collision course.
+
+Now, it remains to be seen if people who buy an iPad will do so instead of buying a netbook. At 
+first, <URL/> I'm not so sure that will be the case. But it stands to reason that eventually, this 
+will happen. And as Jobs' comments on stage on Wednesday made abundantly clear, that's Apple's idea 
+too. In their eyes, you shouldn't buy a cheap, underpowered PC, you should buy an iPad, their 
+anti-netbook.
+
+Google, which plans to release its first Chrome OS-based netbooks in time for the holiday season 
+next year, can't like that plan too much. They have promised that netbooks that run Chrome OS will 
+be better than current netbooks because they're dictating certain minimum requirements (such as big 
+keyboards) to manufacturing partners. But Chrome OS netbooks won't be able to match the sex appeal 
+of the iPad's multi-touch screen. However, what they can offer is a familiar experience (much more 
+like a traditional laptop then an iPad), and that will be appealing to a lot of people.
+
+And what's interesting is that for either of the two to be massive hits, they both will need 
+consumers to continue to feel comfortable moving away from traditional software applications such 
+as Microsoft Office. But their plans to get consumers to do that are very different. Google wants 
+everyone to move towards doing everything on their apps in the cloud. Apple, as they made clear 
+with their overly-long iWork for iPad demo on Wednesday, wants everyone to move towards using 
+iPhone OS-based apps.
+
+And that's why this battle coming at the end of this year will be interesting to watch. Both Apple 
+and Google are very popular with consumers, but their offerings are very different — while aiming 
+for the same market. And as two companies that were once as close as could be, it's also 
+fascinating to watch the tension and awkwardness as they now compete in an ever-growing number of 
+areas.
+
+If this market between laptops and smartphones proves big enough, perhaps the two frenemies can 
+once again <URL/> find a common ground and band together to defeat their common enemy: Microsoft. 
+But the obvious strategy for this used to be that Google would attack Microsoft from the bottom 
+with its Chrome OS netbooks, while Apple attacked from the top with their premium computers, <URL/> 
+leaving Microsoft squeezed in the middle. With the iPad now clearly aimed at netbooks thanks to its 
+pricing and Apple's positioning, everything is <URL/> different.<br /
+If this market between laptops and smartphones proves big enough, perhaps the two frenemies can 
+once again <URL/> find a common ground and band together to defeat their common enemy: Microsoft. 
+But the obvious strategy for this used to be that Google would attack Microsoft from the bottom 
+with its Chrome OS netbooks, while Apple attacked from the top with their premium computers, <URL/> 
+leaving Microsoft squeezed in the middle. With the iPad now clearly aimed at netbooks thanks to its 
+pricing and Apple's positioning, everything is <URL/> different.
+
+
+END POSTING 12793
+
+BEGIN COMMENTS FOR POSTING 12793
+
+BEGIN CONVERSATION 0 FOR POSTING 12793
+
+COMMENT 0  REFERS TO: ORIGINAL POSTING   CONVERSATION 0   LEVEL 0
+USER: USER_1
+
+xxx there are little red dotted boxes around many of the hyperlinks on this page, that's new.  It 
+looks terrible.
+
+Chrome 4.0.249.78 beta.
+
+COMMENT 1  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_2
+
+xxxxxxx Sounds like a Chrome SEO extension highlighting nofollow links. Try disabling it.
+
+COMMENT 2  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_3
+
+xxxxxxxxxxx Hi, I'm the author of Chrome SEO, we've now fixed the red dotted boxes problem.
+
+The Show NoFollow links option was getting enabled by default, we've now turned this off and you 
+can enable it manually. Sorry for the inconvenience.
+
+You can now download it again at  <URL/> 
+https://chrome.google.com/extensions/detail/oangcciaeihlfmhppegpdceadpfaoclj
+
+BEGIN CONVERSATION 1 FOR POSTING 12793
+
+COMMENT 3  REFERS TO: ORIGINAL POSTING   CONVERSATION 1   LEVEL 0
+USER: USER_4
+
+xxx Brilliant piece.
+
+Microsoft have a lack of vision. Maybe this will kick start `em -- but it's a catch up game with 
+them.
+
+COMMENT 4  REFERS TO: COMMENT 3   CONVERSATION 1   LEVEL 1
+USER: USER_5
+
+xxxxxxx To do something innovative ,first they have to change their CEO!
+
+COMMENT 5  REFERS TO: COMMENT 3   CONVERSATION 1   LEVEL 1
+USER: USER_6
+
+xxxxxxx iPad is not a game-changer, although it might be a budding device made for a 
+non-existential market again.
+
+Just think, what it could replace in the future? (Your Coby, PMP device, Your LCD in your Car, 
+Those vtech for the kids, etc)
+
+I believe, this year won't be an iPad year. But believe me, after 3 years.. I think we will look 
+back and remember this day, why we disdain iPad so much, because it turns out on that day. iPad is 
+a part of your home already.
+
+<b|....More details:  <URL/> http://bit.ly/apple-tablet-under-fire</b>
+
+COMMENT 6  REFERS TO: COMMENT 3   CONVERSATION 1   LEVEL 1
+USER: USER_7
+
+xxxxxxx To Everyone that thinks the iPad is so much better than a netbook, and that there are no 
+other multi touch devices. I tell you to look at the Asus T91MT.
+
+It has multi touch, it has 32gb SSD, SD slots, USB ports, audio ports, web cam, tablet mode, multi 
+touch track pad, fast, 6 hours of battery life, and oh yeah it's only $550.
+
+How can the iPad be considered better, what because it runs Windows 7? A normal PC OS? That is not 
+a problem, as you can get tablet specific applications if you want, there just is no need for them.
+
+Just admit that the iPad is not innovative, and stop drinking the Apple koolaid.
+
+COMMENT 7  REFERS TO: COMMENT 6   CONVERSATION 1   LEVEL 2
+USER: USER_8
+
+xxxxxxxxxxx Apple has got loads of competition on the hardware-side, but the only ones who's got a 
+clue software-wise is Google. Chrome and Android is closing in on macos / iPhone os.
+
+Who gives a f***k that asus has the hottest hardware? As long as you're forced to use windows or 
+linux on it, it stinks anyways.
+
+COMMENT 8  REFERS TO: COMMENT 7   CONVERSATION 1   LEVEL 3
+USER: USER_9
+
+xxxxxxxxxxxxxxx linux rules!!
+
+COMMENT 9  REFERS TO: COMMENT 7   CONVERSATION 1   LEVEL 3
+USER: USER_10
+
+xxxxxxxxxxxxxxx Ummmm..... Chrome OS and Android run on top of the Linux kernel.
+
+I know they're realistically not Linux, but I think the fact that these other OSes rely on Linux 
+says enough.
+
+COMMENT 10  REFERS TO: COMMENT 9   CONVERSATION 1   LEVEL 4
+USER: USER_11
+
+xxxxxxxxxxxxxxxxxxx You know Linux is the kernel, the stuff around that is GNU, and on top of that 
+is Gnome, KDE, or Android and ChromeOS.
+
+COMMENT 11  REFERS TO: COMMENT 6   CONVERSATION 1   LEVEL 2
+USER: USER_12
+
+xxxxxxxxxxx I have the T91MT, but nice as it looks from the specs it (Windows 7 Touch) just doesn't 
+respond the way the iPad appears to. I  wish it did, then I wouldn't need to buy an Android Tablet 
+when one appears on the scene sporting the full set of Google apps <IMAGE/> 
+
+COMMENT 12  REFERS TO: COMMENT 11   CONVERSATION 1   LEVEL 3
+USER: USER_13
+
+xxxxxxxxxxxxxxx i have a t91mt. i am loving it. in fact i am on my couch and responding to this 
+post.
+
+i had a srluggish system as well untill i upgraded to 2 gb RAM. the processor is definitely slow 
+but that is something i knew when i bought it.
+
+battery life is excellent and though it may not be as slick as the ipad, it is more functional. i 
+carry it arround and read pdfs and ebooks on it without issue.
+
+COMMENT 13  REFERS TO: COMMENT 3   CONVERSATION 1   LEVEL 1
+USER: USER_14
+
+xxxxxxx I'm sure Microsoft is watching ... I just can't wait for them to bring something innovative 
+in the near future.
+
+COMMENT 14  REFERS TO: COMMENT 13   CONVERSATION 1   LEVEL 2
+USER: USER_15
+
+xxxxxxxxxxx Don't hold your breath.
+
+They're not going to make hardware. They are going to just update the UI on the Touch version of 
+Windows 7, which will suck.
+
+COMMENT 15  REFERS TO: COMMENT 13   CONVERSATION 1   LEVEL 2
+USER: USER_16
+
+xxxxxxxxxxx hope so that they really brings a revolutionary change .. hmm like an operating system 
+... without anu bugs and viruses ... but I seriously hope that they really launch a good product in 
+the market ..
+
+Best,
+
+Daina
+
+COMMENT 16  REFERS TO: COMMENT 3   CONVERSATION 1   LEVEL 1
+USER: USER_17
+
+xxxxxxx Care to explain exactly why Microsoft have a lack of vision?
+
+Because looking at the Xbox 360, Windows 7 and Office 2010 you appear to be flat out wrong.
+
+As for the clowns quacking about changing the CEO, did you look at last quarter's results?
+
+COMMENT 17  REFERS TO: COMMENT 16   CONVERSATION 1   LEVEL 2
+USER: USER_15
+
+xxxxxxxxxxx You are right on XBOX 360 -- but wrong on everything else?
+
+Windows 7? C'mon that was just an expensive service pack to Vista. Where is the innovation in that?
+
+Office 2010? Ribbon? Really? It's so hard to use that Microsoft had to make a game so people could 
+figure out how to use its features.
+
+Last year's annual results for Microsoft resulted in an 8 billion loss in revenue. Apple's $3.38B 
+profit margin is now greater then Microsoft's $3.05B. Apple innovates. Granted, right now the iPad 
+is missing features that we all expected, but to say the iPad lacks innovation because a few 
+features are missing is ludicrous.
+
+COMMENT 18  REFERS TO: COMMENT 17   CONVERSATION 1   LEVEL 3
+USER: USER_18
+
+xxxxxxxxxxxxxxx Oh Great...now could you explain what's the innovation in iPad?
+
+COMMENT 19  REFERS TO: COMMENT 18   CONVERSATION 1   LEVEL 4
+USER: USER_19
+
+xxxxxxxxxxxxxxxxxxx The main innovation in iPad is that they very carefully tailored the user 
+interface for the new screen size/setup.
+
+The Netbook user interface is essentially identical to a PC, no matter what size of screen is used. 
+ No effort is put into trying to make the interface work better with the smaller screen.
+
+For example, if I pull up a new word processing window on a netbook, it inhabits a portion of the 
+screen, just as it would on a computer with a huge screen.  It seems more logical to me for it to 
+take up the whole screen with a smaller size, but nobody thought of that; they just did things the 
+way they have always been done.
+
+On the iPad, all applications fill up the whole screen, just as they should to take advantage of 
+the full resolution/size.  And applications will be designed to configure themselves differently 
+whether on an iPhone or an iPad.  Intelligent.
+
+Now, that's a slightly silly example, obviously.  I  can fix the problem on the netbook by hitting 
+the Maximize button and then the application will fill the screen.
+
+At the same time, it shows a genuine difference in design philosophy.
+
+The way I look at it, Apple makes designer computers.  They are meant to look great and conform 
+nicely to how you want to use them.  That was how I thought of Apple before the iPhone, but the 
+iPhone and iPad have carried this to the next level.  You can buy a designer computer, or a 
+Wal*Mart computer.  The former has been carefully crafted to fit, the latter is just thrown out on 
+the shelves.
+
+I would call that real innovation, and I'm sure that when I get my hands on an iPad, I will notice 
+a lot more built into the product.
+
+D
+
+COMMENT 20  REFERS TO: COMMENT 18   CONVERSATION 1   LEVEL 4
+USER: USER_11
+
+xxxxxxxxxxxxxxxxxxx Obviously David Dennis hasn't actually used any tailor made netbook software.
+
+<URL/> 
+http://www.ubuntuproductivity.com/journal/productivity/08/2008/focused-workflow-with-netbook-remix/
+
+<URL/> http://geeksmack.net/hardware/100-intel-and-lg-form-alliance-for-the-better.html
+
+Both of these run applications full-screen natively, not specific netbook applications, due to the 
+flexibility of Gnome, it's actually quite trivial to tell something to run fullscreen.
+
+Applications are already configured to rearrange themselves depending on the resolution they have 
+to run at.
+
+It even conforms to how I want to use it, should I want to switch back to windowed operation like a 
+standard desktop, my applications will behave there as well.
+
+Even Google understands that netbooks should  run applications in fullscreen -- ever booted 
+ChromeOS? It's just a full-screen version of Chrome with a clock.
+
+That's just a few of the Netbook optimized options out there. The difference in design philosophy 
+is certainly there, the UI's in Linux were designed with this sort of requirement in mind from day 
+1, there is no upscaling required for legacy applications.
+
+COMMENT 21  REFERS TO: COMMENT 17   CONVERSATION 1   LEVEL 3
+USER: USER_20
+
+xxxxxxxxxxxxxxx Microsoft had a net income of around 14.5 billion USD in 2009, not 3.05 billion USD.
+
+COMMENT 22  REFERS TO: COMMENT 21   CONVERSATION 1   LEVEL 4
+USER: USER_21
+
+xxxxxxxxxxxxxxxxxxx Actually, he was comparing profit... See how he said profit not net income. 
+They're two different things. ECON 101!
+
+COMMENT 23  REFERS TO: COMMENT 21   CONVERSATION 1   LEVEL 4
+USER: USER_22
+
+xxxxxxxxxxxxxxxxxxx Microsoft net income for FY09 14,569,000
+
+Apple net income for FY09 8,235,000
+
+BEGIN CONVERSATION 2 FOR POSTING 12793
+
+COMMENT 24  REFERS TO: ORIGINAL POSTING   CONVERSATION 2   LEVEL 0
+USER: USER_23
+
+xxx Confused. More than ever.
+
+COMMENT 25  REFERS TO: COMMENT 24   CONVERSATION 2   LEVEL 1
+USER: USER_24
+
+xxxxxxx Maybe, like me, you're probably trying to work out how the iPad fits into your life when 
+the answer is that it probably doesn't.
+
+BEGIN CONVERSATION 3 FOR POSTING 12793
+
+COMMENT 26  REFERS TO: ORIGINAL POSTING   CONVERSATION 3   LEVEL 0
+USER: USER_25
+
+xxx Chrome OS will for Tablets, Netbooks, Notebooks, and PC Desktops. See the link... <URL/> 
+http://dev.chromium.org/chromium-os/user-experience/form-factors
+
+Collision Course?
+
+COMMENT 27  REFERS TO: COMMENT 26   CONVERSATION 3   LEVEL 1
+USER: USER_26
+
+xxxxxxx Oh wow, I hadn't seen that page.  That tablet UI looks really nice.
+
+BEGIN CONVERSATION 4 FOR POSTING 12793
+
+COMMENT 28  REFERS TO: ORIGINAL POSTING   CONVERSATION 4   LEVEL 0
+USER: USER_27
+
+xxx I'm going to buy an iPad, probably wait in line for it as I have with iPhones, but I'd sure be 
+happier with the iPad if it worked better with the cloud.  Why do I want to have to email iWork 
+documents rather than having a table full of people all editing the same document from their own 
+machines (laptops and iPads alike)?
+
+COMMENT 29  REFERS TO: COMMENT 28   CONVERSATION 4   LEVEL 1
+USER: USER_28
+
+xxxxxxx But, they already have this in iWork:
+
+<URL/> 
+http://www.apple.com/iwork/iwork-dot-com/?cid=APP-NAUS-IWORK-090702-00003&cp=APP-IWORK-00003&sr=IWOR
+K.COM
+
+All they need to port this to web service the iPad. Who know, they may already be working on this.
+
+COMMENT 30  REFERS TO: COMMENT 29   CONVERSATION 4   LEVEL 2
+USER: USER_29
+
+xxxxxxxxxxx Na JoeYYY, I wish iWork.com was as good at online collaboration as Google Apps but it's 
+just not...With iWork.com (still beta after a couple years) you have to download the document to 
+make changes, very very very different from the real time collaborative editing of Google Apps...
+
+BEGIN CONVERSATION 5 FOR POSTING 12793
+
+COMMENT 31  REFERS TO: ORIGINAL POSTING   CONVERSATION 5   LEVEL 0
+USER: USER_30
+
+xxx I'm a fan of Apple and I expect there to be an iPad in the house within a couple of years 
+(although it'll be my mum who picks one up), but even so I'm leaning towards Chrome OS and netbooks 
+in general.
+
+These days I really only use my laptop for web browsing and writing anyways, and a netbook can 
+handle that perfectly well (especially one of the HP ones which have 92% keyboards and are dirt 
+cheap on eBay). The rest of my media consumption (like podcasts) go straight to my iPhone.
+
+But still, I don't exactly consider netbooks and the iPad to be on a collision course. My mum wants 
+an iPad because it has a big screen and has intuitively limited functionality, and I want a netbook 
+because I just need something that I can easily type on and customise the experience to what I want 
+and need.
+
+Same position in the market (in between phones and regular computers) but not on the same paths in 
+my opinion. <IMAGE/> 
+
+BEGIN CONVERSATION 6 FOR POSTING 12793
+
+COMMENT 32  REFERS TO: ORIGINAL POSTING   CONVERSATION 6   LEVEL 0
+USER: USER_31
+
+xxx Next thread on AppleCruch: iPad: Buy it, because we're telling
+
+COMMENT 33  REFERS TO: COMMENT 32   CONVERSATION 6   LEVEL 1
+USER: USER_5
+
++2
+
+COMMENT 34  REFERS TO: COMMENT 33   CONVERSATION 6   LEVEL 2
+USER: USER_32
+
++4
+
+COMMENT 35  REFERS TO: COMMENT 34   CONVERSATION 6   LEVEL 3
+USER: USER_33
+
+xxxxxxxxxxxxxxx -6 +2 x3 /17
+
+COMMENT 36  REFERS TO: COMMENT 32   CONVERSATION 6   LEVEL 1
+USER: USER_34
+
+xxxxxxx +3 ..someone is trying desperately to convince us why we need to buy this device not matter 
+if we wont do sh$$t with it.
+
+COMMENT 37  REFERS TO: COMMENT 32   CONVERSATION 6   LEVEL 1
+USER: USER_17
+
++99
+
+COMMENT 38  REFERS TO: COMMENT 32   CONVERSATION 6   LEVEL 1
+USER: USER_35
+
+xxxxxxx and on iengadget.com and igizmodo.com...
+
+these sites are already nothing more than unofficial ad-campaigns for iproducts
+
+COMMENT 39  REFERS TO: COMMENT 38   CONVERSATION 6   LEVEL 2
+USER: USER_36
+
+xxxxxxxxxxx Why bother coming to read a website that you claim is Apple biased (it's not, you are 
+just Microsoft fanboys)? Don't like the iPad? Stop reading about it then, you dumb fucks! It's not 
+rockets science. Don't buy one!
+
+COMMENT 40  REFERS TO: COMMENT 38   CONVERSATION 6   LEVEL 2
+USER: USER_37
+
+xxxxxxxxxxx Apparently the days when the comments on TC were more insightful than the articles are 
+over, even though the quality of the articles remains the same.
+
+BEGIN CONVERSATION 7 FOR POSTING 12793
+
+COMMENT 41  REFERS TO: ORIGINAL POSTING   CONVERSATION 7   LEVEL 0
+USER: USER_38
+
+xxx Google has vapor ...
+
+Meanwhile, Apple is busy working on iPad (hardware) iPhone v. 4
+
+When holiday season rolls around, Apple is likely to be on another burned-in version of iPad 
+hardware...
+
+COMMENT 42  REFERS TO: COMMENT 41   CONVERSATION 7   LEVEL 1
+USER: USER_39
+
+xxxxxxx Yes, vapor, like a demo and available open source operating system. -_-
+
+COMMENT 43  REFERS TO: COMMENT 41   CONVERSATION 7   LEVEL 1
+USER: USER_40
+
+xxxxxxx <URL/> http://www.chromium.org
+
+It's hardly vapour <IMAGE/> 
+
+BEGIN CONVERSATION 8 FOR POSTING 12793
+
+COMMENT 44  REFERS TO: ORIGINAL POSTING   CONVERSATION 8   LEVEL 0
+USER: USER_41
+
+xxx The Use Cases of a netbook and a tablet are completely different. If typing is your thing, then 
+a netbook will suit. If you want a device that is easy to use on PT, a cafe, at meeting, or 
+collaborating  then a tablet will prove to be more useful.
+
+Also take the fact the Apple controls the entire experience from silicon to UI will ultimately 
+tighten the user experience to the point that people won't see it like a computer, but rather a 
+device (like a toaster) that is a no-brainer to use.
+
+I just hope the frenemies are still close enough so that Google Docs can be a worth while 
+experience. Tablet + Google Docs to me would be a killer application.
+
+COMMENT 45  REFERS TO: COMMENT 44   CONVERSATION 8   LEVEL 1
+USER: USER_42
+
+xxxxxxx They say prophesy is given to the fools, so I'd play the fool and predict: Apple's closed 
+garden approach will eventualy FAIL.
+
+The colision course, as I see it, is not between form factors (there are pros and cons to each) but 
+between Apple's closed up, control freaked business model and Google's more open one. And I think 
+google's the smarter one.
+
+Within a couple of years you'll have a whole bunch of devices, in different sizes and form factors, 
+running Chrome OS, Android, Windows or Linux (BTW Google will make money either way cuz their 
+profits depend on Internet usage, not hardware sales)
+
+Now look, I'm a UI designer, what can I use on the iPad to do my work? Currently nothing. I used to 
+rely on Windows based software like Axure and Visio for it, but now I can do most of it using 
+Mockingbird, iPlotz and a bunch of other web services.
+
+I'm also a project manager. What can I use on the iPad? Zilch. On the web? Basecamp, Beehive...
+
+Let's say you need some light image processing, where do you go?
+
+See my point yet? When you close off your environment like Apple does, your never gonna catch up to 
+the inovation possible with milions of developers working on the web.
+
+Apple may be ahead with user experience (which I adore) but they're still playing catch up with 
+real applications (iWork? Seriously?) sooner or later, the market will wake up and realize it, and 
+iPads will be left for grandmothers to show pictures of their grandchildren in.
+
+PS, this was writen from my iPod touch, in the bathroom (Ha! In your face, Steve!)
+
+COMMENT 46  REFERS TO: COMMENT 45   CONVERSATION 8   LEVEL 2
+USER: USER_43
+
+xxxxxxxxxxx So you re saying that iPad, a product that won't be for sale for a another two months, 
+don't have a software catalogue available today ? Wow, that's surprising!
+
+The future looks different though. Omni just announced that they will port five products to the 
+iPad, at least two of which that might do the trick for what you want to do. I would be very 
+surprised if Acorn or some other imaging processing app isn't ported within 6 months. Also, half of 
+the tools you mentioned are web apps, why wouldn't they work on the iPad?
+
+Finally, what's wrong with iWork? I use Keynote and Pages extensively since they fit my needs way 
+better than Office.
+
+COMMENT 47  REFERS TO: COMMENT 45   CONVERSATION 8   LEVEL 2
+USER: USER_44
+
+xxxxxxxxxxx Omnigraffle is coming to the iPad which is a pretty decent competitor to Visio. 
+Mockingbird is Javascript so it runs fine on something like the iPad. Basecamp works fine on the 
+iPad.
+
+There are thousands of developers dying to release apps for the iPad and if you compare what's 
+available for Chrome OS to the iPhone App Store, you'll find 2 or 3 categories where Chrome OS has 
+better, superior apps (due to Apple's hamfisted restrictions), but Chrome OS lags everywhere else. 
+Not least in the number of developers.
+
+COMMENT 48  REFERS TO: COMMENT 47   CONVERSATION 8   LEVEL 3
+USER: USER_45
+
+xxxxxxxxxxxxxxx Both of you got me wrong (hexley and Bror), which might mean i explained wrong, or 
+you're too eager to defend the iPad.
+
+The examples i gave are just current ones. Solve them and you'll have new ones.
+
+Yes, there would be some good applications for the iPad for a lot of things, but they'll always be 
+behind what's out there, both in quantity AND quality because there's simply a limit to what a 
+limited number of developers can do, and there's a limit to how many applications you can cram in 
+one store, and there's a limit to how many apps the Apple approval staff (or bots or whatever they 
+are) can review...
+
+Those limits are inherited in a system that is, well, limiting.
+
+The same, perhaps even more importantly, goes for the form factor. The iPad has some good things 
+going for it, industrial-design wise (like weight, speed, battery life) but also some serious 
+drawbacks (i personally believe that the virtual keyboard, with the way it is implemented in this 
+specific machine, will fail as a serious input device).
+
+By giving the operating system (two of them, in fact) out to manufacturers, Google is creating a 
+prosperity in form factors and encourages the creativity of those manufacturers to develop better 
+solutions both technologically and ergonomically.
+
+And let's not forget that there are other contenders as well. Microsoft had not said their last 
+word in the mobile space. Nokia has been in the MID business for a while now and they're not giving 
+up easily…
+
+So, what I'm saying is not that the iPad would necessarily fail, but that the Apple approach of 
+centralized, totalitarian-like control over every aspect of a product would eventually fail.
+
+In the short term they look smarter cuz they make wonderfully crafted devices. In the long term 
+they loose because people are different, and they have different needs, and they need diversity.
+
+Either Aple opens up their approach or they start loosing what they so painfuly just recently 
+gained.
+
+BEGIN CONVERSATION 9 FOR POSTING 12793
+
+COMMENT 49  REFERS TO: ORIGINAL POSTING   CONVERSATION 9   LEVEL 0
+USER: USER_46
+
+xxx wants everyone to move towards using iPhone OS-based apps. or you could say they wanna bring 
+people inside their tightly controlled ecosystem.
+
+I agree these two products are on a collision course, I've heard a lot of people lately trying to 
+come up with ways they'd use the iPad, and one of them is using the iPad as a web-tablet that you 
+can have around the house to quickly pickup and check email or google something. Sounds a lot like 
+what Google said you'd use a Chrome OS netbook for.
+
+But you are missing one important factor that fueled netbooks popularity: price.
+
+The cheapest iPad is 499, but when you start adding accessories and 3G, that price climbs faster 
+that you can say apple tax, you're paying more for accessories that already come with netbooks (3g, 
+usb, keyboard).
+
+So you could buy a 300 bucks netbook or a 700$ iPad and still have a better web experience on a 
+netbook. I'm just not seeing people buying the iPad over a netbook, I want to, but I can't.
+
+Then there's the familiarity issue, 90% of people live in the Office/PC world, is going to be very 
+hard to get people out of that world, however, is gonna be easier to get people to use the web 
+version of Office on a Chrome OS netbook than to jump over to the Apple world.
+
+Plus, a Googler said last year that they'd bring gDocs up to par with Office this year, probably to 
+coincide with the Chrome OS launch, if they can deliver on providing a similar experience to 
+Office, is gonna be harder for Apple to convince people to use iWork on the iPad.
+
+That's my two cents, I have little doubt these two products are on a collision course, but I'm 
+putting my money on that cost of ownership will decide the winner.
+
+PS: Two more pieces of the puzzle.
+
+Eric Schmidt: `Tell Me The Difference Between A Large Phone And A Tablet' -- <URL/> 
+http://goo.gl/CHp6
+
+Google Building Touch into Chrome OS? -- <URL/> http://goo.gl/poWN
+
+COMMENT 50  REFERS TO: COMMENT 49   CONVERSATION 9   LEVEL 1
+USER: USER_47
+
+xxxxxxx Nonsense.  If you believe that you're a fool.  Everyone and their mother has been trying to 
+replicate the Office experience, and none have succeeded.  Google Docs are okay, but they utterly 
+pale in comparison to MS Office.  Word Perfect, Lotus Smartsuite, etc.  They all died off because 
+of Office.  While Google can bleed money on their office killer they know full well that they can't 
+compete in the corporate world with Office.  One year my ass.
+
+COMMENT 51  REFERS TO: COMMENT 50   CONVERSATION 9   LEVEL 2
+USER: USER_48
+
+xxxxxxxxxxx Sure MS Office monster has a superior functionality, but majority of private users and 
+many of businesses does not even need 90% of its power.  Thats why many of us (including small 
+businesses which are faster to adapt) have completely switched to google docs/google apps. That 
+have anything that we need in daily work and way more powerful and convenient and mobility and team 
+work.
+
+BEGIN CONVERSATION 10 FOR POSTING 12793
+
+COMMENT 52  REFERS TO: ORIGINAL POSTING   CONVERSATION 10   LEVEL 0
+USER: USER_49
+
+xxx I would say the iPad & the Android Tablet are on a collision course.
+
+BEGIN CONVERSATION 11 FOR POSTING 12793
+
+COMMENT 53  REFERS TO: ORIGINAL POSTING   CONVERSATION 11   LEVEL 0
+USER: USER_50
+
+xxx Slashdot has an article on a new $100 Android netbook that looks pretty reasonable to me.  The 
+lack of proper background multitasking on the iPad is a killer for me, as is the lack of a built-in 
+memory port of any kind.  I'm ordering one ASAP just to play with it, but it'll probably gather 
+dust like my iPhone 3G and my iPod Touch that I bought to play with and gave up hope on.
+
+BEGIN CONVERSATION 12 FOR POSTING 12793
+
+COMMENT 54  REFERS TO: ORIGINAL POSTING   CONVERSATION 12   LEVEL 0
+USER: USER_51
+
+xxx A tip for the editor...
+
+The Chromium OS team (the base of Chrome OS) is working on Tablets, Netbooks, Notebooks, and PC 
+Desktops.
+
+That's include... high resolutions desktops, multitouch support, accelerometer, and four (4) user 
+interfaces for Chromium.
+
+Read the Open development page of Chromium OS for more info.
+
+BEGIN CONVERSATION 13 FOR POSTING 12793
+
+COMMENT 55  REFERS TO: ORIGINAL POSTING   CONVERSATION 13   LEVEL 0
+USER: USER_52
+
+xxx Apple should have priced base iPad at 501
+
+BEGIN CONVERSATION 14 FOR POSTING 12793
+
+COMMENT 56  REFERS TO: ORIGINAL POSTING   CONVERSATION 14   LEVEL 0
+USER: USER_53
+
+xxx netbooks are better than the ivagina
+
+COMMENT 57  REFERS TO: COMMENT 56   CONVERSATION 14   LEVEL 1
+USER: USER_54
+
+xxxxxxx good to know, I have been able to really use the iPad for more than a few minutes, so I 
+have to defer to your experience with it.
+
+BEGIN CONVERSATION 15 FOR POSTING 12793
+
+COMMENT 58  REFERS TO: ORIGINAL POSTING   CONVERSATION 15   LEVEL 0
+USER: USER_55
+
+xxx With the iPad now clearly aimed at netbooks...
+
+Sorry, the iPad isn't competition for a netbook. The iPad isn't a personal computer. It's a 
+web-browsing/book reading device, which is also a vehicle for AAPL's content.
+
+No multitasking, no USB input (???), no card readers, no Flash, no camera to leverage AR (and guess 
+why not??), no 3G without a pricey upgrade. In other words, not a computer and certainly no 
+competition for netbooks.
+
+COMMENT 59  REFERS TO: COMMENT 58   CONVERSATION 15   LEVEL 1
+USER: USER_56
+
+xxxxxxx Rick, plenty of folks who buy netbooks do not even need a real computer, and this is where 
+the iPad will fill that niche. Obviously, for more power demanding users (multi-tasking, Flash, 
+higher-res screen, more storage/RAM), the iPad isn't going to lure them away from netbooks and 
+cheaper laptops.
+
+COMMENT 60  REFERS TO: COMMENT 58   CONVERSATION 15   LEVEL 1
+USER: USER_57
+
+xxxxxxx yes its more an electronic newspaper than a computer. its icrap not an ipad.
+
+and over all its not ergonomically fit. none can use it for a long time. not multi tasking
+
+COMMENT 61  REFERS TO: COMMENT 60   CONVERSATION 15   LEVEL 2
+USER: USER_36
+
+xxxxxxxxxxx Who the hell do you know?! Are you an `ergonomics' expert? No, you are not. You are 
+another fanboy commentard. Sssssshhhhhh.
+
+COMMENT 62  REFERS TO: COMMENT 61   CONVERSATION 15   LEVEL 3
+USER: USER_58
+
+xxxxxxxxxxxxxxx Are you?
+
+BEGIN CONVERSATION 16 FOR POSTING 12793
+
+COMMENT 63  REFERS TO: ORIGINAL POSTING   CONVERSATION 16   LEVEL 0
+USER: USER_59
+
+xxx netbooks are better period ipad better soak it up!
+
+BEGIN CONVERSATION 17 FOR POSTING 12793
+
+COMMENT 64  REFERS TO: ORIGINAL POSTING   CONVERSATION 17   LEVEL 0
+USER: USER_60
+
+xxx Agree with rick and turnbull --- target markets are not the same, so no collision except for a 
+small group of users sitting on the boundary fence. Soccer moms will love the iPad. Techies not so 
+much.
+
+BEGIN CONVERSATION 18 FOR POSTING 12793
+
+COMMENT 65  REFERS TO: ORIGINAL POSTING   CONVERSATION 18   LEVEL 0
+USER: USER_61
+
+xxx nice piece, MG.
+
+BEGIN CONVERSATION 19 FOR POSTING 12793
+
+COMMENT 66  REFERS TO: ORIGINAL POSTING   CONVERSATION 19   LEVEL 0
+USER: USER_62
+
+xxx the truth we are frustrated that the ipad doesnt have multitasking and flash, the truth is we 
+like the ipad but we are also frustrated about it because apple didnt put any other decent full 
+applications and want to cash on other versions on ipad; so now we are so frustrated that we look 
+for other companies to satisfy our needs that apple didnt -- we had high expectations on apple 
+ipad-islate -- some like we thought it would be not far away from avatars  tablets -- we want 
+another product, and we are hoping for it, if not -- we are hoping something or somebody will fix 
+the apple ipad  not so satisfaying options -- and thats why Siegler you are writing all this 
+articles -- we are frustrated with the apple ipad. doesnt matter how much apple would want to see 
+the ipad as a revolution, it didnt happen -- we are still waiting for it
+
+COMMENT 67  REFERS TO: COMMENT 66   CONVERSATION 19   LEVEL 1
+USER: USER_63
+
+xxxxxxx The truth is that I am frustrated at your lack of punctuation.
+
+BEGIN CONVERSATION 20 FOR POSTING 12793
+
+COMMENT 68  REFERS TO: ORIGINAL POSTING   CONVERSATION 20   LEVEL 0
+USER: USER_64
+
+xxx apple is clearly smarter than google. android apps won't run on chrome.
+
+COMMENT 69  REFERS TO: COMMENT 68   CONVERSATION 20   LEVEL 1
+USER: USER_45
+
+xxxxxxx iPhone/iPad apps won't run on Mac's either.
+
+If you own an Android phone and want a tablet, you can always get an Android one, there are sevsral 
+already in the market (and growing steadily).
+
+Apple will always SEEM smarter cuz they're so control-y about their products so when they show them 
+off they always wow you with how they thaought everything out (well, except for copy/paste and a 
+bunch of other minorities...)
+
+Google doesn't try to control everything. they make the software and let a whole bunch of companies 
+build the hardware (and even fool around with the software, which Microsoft never would have let 
+them). So they may not seem as ingenious as Apple but i think that in the long run their model will 
+win.
+
+BEGIN CONVERSATION 21 FOR POSTING 12793
+
+COMMENT 70  REFERS TO: ORIGINAL POSTING   CONVERSATION 21   LEVEL 0
+USER: USER_65
+
+xxx Will there be any web development apps for the iPad?  I can't live without my Visual Studio and 
+SQL Server.
+
+BEGIN CONVERSATION 22 FOR POSTING 12793
+
+COMMENT 71  REFERS TO: ORIGINAL POSTING   CONVERSATION 22   LEVEL 0
+USER: USER_66
+
+xxx Sorry, don't fully agree that the iPad is superior to every netbook out there.
+
+BEGIN CONVERSATION 23 FOR POSTING 12793
+
+COMMENT 72  REFERS TO: ORIGINAL POSTING   CONVERSATION 23   LEVEL 0
+USER: USER_67
+
+xxx Really, Mr. MG? You think iPhone OS based iWork apps beat Google's cloud based competition? May 
+be for minority, or for people  who needs to maintain grocery lists. But not for majority of people.
+
+I didn't even open iWork apps since I installed Snow Leopard few months ago. I either used 
+(Open)Office suit of apps where serious work is needed, or used Google apps where cloud based 
+access is needed. Simply iWork is either not powerful enough for serious work, or not economical 
+enough for cloud based access.
+
+I might still buy an iPad, but not for the reasons you mentioned here.
+
+COMMENT 73  REFERS TO: COMMENT 72   CONVERSATION 23   LEVEL 1
+USER: USER_68
+
+xxxxxxx Could you tell me one feature about OpenOffice that you need, that's better implemented 
+than in iWork (or even doesn't exist there)? I used the OOffice Writer quite a lot 2-3 years ago, 
+Impress just a bit until I got VERY annoyed by it and Calc just for basic stuff. I also know MS 
+Office quite well and for a real power user, that's the one. However, since iwork 09 is out, I use 
+it alot and by now I prefer it in every way. It actually has every feature I really need and those 
+that I need are by FAR better implemented than in OOffice and most of the times even better than MS 
+Office in terms of simplicity. There are some crucial benefits like the positioning rulers that pop 
+up, or the alt-arrow-key combination for inserting rows/cols that make often used actions so much 
+simpler, you ask yourself how you could have lived without it. Even numbers has become great, if 
+you don't need pivot-tables it's probably all you need, again, and there it's much simpler. Also, 
+MS Office import / export is SO much better than in OOffice. Give it a try!
+
+BEGIN CONVERSATION 24 FOR POSTING 12793
+
+COMMENT 74  REFERS TO: ORIGINAL POSTING   CONVERSATION 24   LEVEL 0
+USER: USER_69
+
+xxx I think maybe windows does have it right. I bought a multi touch desktop. It's kinda awesome. I 
+use it. But where it would be better would be on a netbook.. and ditch the trackpad. Most people do 
+need a keyboard. What i don't want is is a third or forth device in the home... or a second or 
+third to carry around. If you have a smartphone.. why this? If you have a netbook.. why this? If 
+you have a net book with a touch screen.. especially why this?
+
+This A4 processor is reported to be so zippy... aren't most that run one process at a time? Who 
+does that? Completely shuts down and opens the next task? If someone wants to chat with me right 
+now... I won't close this browser and start chatting.
+
+However, certain apple people are just drooling. They are selling this without having touched it. I 
+can't take anything seriously about their comments. No more than I could believe Windows 8 will be 
+totally awesome yet or Ubuntu 10.whatever or Firefox 4. I do think there will be fans who will be 
+first in line and fainting on the first keystroke of the wonderfulness of each. I don't care about 
+them. So far I am not sold about this thing at all...  or tablets. Having touch on this is a useful 
+tool. Not a solution and for certain things would be a step backwards. And if you have an 
+iphone/touch what makes this cool at all? Don't you people need to type? Or ar we going going to 
+have an ifest to roll out the ibag to haul around all your istuff? For me... idon'tthinkso.
+
+COMMENT 75  REFERS TO: COMMENT 74   CONVERSATION 24   LEVEL 1
+USER: USER_70
+
+xxxxxxx probably the most insightful comment of all. thanks.
+
+The only time i can see a use for the ipad is the time i go to bed, and browse before falling 
+asleep. but i got the iphone for that, or my wife's netbook. which runs office. and SPSS.
+
+the ones badmouthing microsoft here, do you guys ever actually use a machine for work?
+
+COMMENT 76  REFERS TO: COMMENT 75   CONVERSATION 24   LEVEL 2
+USER: USER_29
+
+xxxxxxxxxxx Yup quite a few machines actually and they are all Microsoft free <IMAGE/> .
+
+BEGIN CONVERSATION 25 FOR POSTING 12793
+
+COMMENT 77  REFERS TO: ORIGINAL POSTING   CONVERSATION 25   LEVEL 0
+USER: USER_71
+
+xxx Just so you know, in between isn't accurate. Every instance in which you used it, you could 
+have simply used between. Also, you called Chrome OS Google OS. Did you revise this post at all 
+after your first draft?
+
+BEGIN CONVERSATION 26 FOR POSTING 12793
+
+COMMENT 78  REFERS TO: ORIGINAL POSTING   CONVERSATION 26   LEVEL 0
+USER: USER_72
+
+xxx Lets face it, the ipad is a device without a clear target group. We don't know yet who will buy 
+the ipad, what its main use is going to be and whether it's going to be successful (my guess -- 
+no). I'm tired of all these highly speculative pieces you read all over the place, typically 
+written by people who for some reason have an incredible emotional attachment to one corporation or 
+another (are you listening MG?).
+
+BEGIN CONVERSATION 27 FOR POSTING 12793
+
+COMMENT 79  REFERS TO: ORIGINAL POSTING   CONVERSATION 27   LEVEL 0
+USER: USER_73
+
+xxx <b>At least with an iPad you get real customer service if you have trouble with your 
+hardware…with Google you get a customer discussion forum!</b>
+
+COMMENT 80  REFERS TO: COMMENT 79   CONVERSATION 27   LEVEL 1
+USER: USER_74
+
+xxxxxxx Oh yeah, that's why Apple has been able to provide a good fix for its busted 27 iMacs, huh?
+
+Google on the other hand is alredy working on a fix for the Nexus One.
+
+The irony is that a lot of 27 iMac owners are complaining in Apple support forums, and Apple's real 
+customer service, as you call it, is not even doing anything to give these people hope.
+
+COMMENT 81  REFERS TO: COMMENT 79   CONVERSATION 27   LEVEL 1
+USER: USER_30
+
+xxxxxxx ...uh, you may not get software support directly from Google, but it's not like they're 
+making the hardware; all of that will be handled by the manufactures (Acer etc).
+
+COMMENT 82  REFERS TO: COMMENT 79   CONVERSATION 27   LEVEL 1
+USER: USER_75
+
+xxxxxxx Great point. There could be some great Android Tablets or Chrome netbooks coming out, but 
+I'd still be reluctant to recommend any average user to use them because support is non-existent. I 
+won't even recommend Android phones to people yet.
+
+COMMENT 83  REFERS TO: COMMENT 82   CONVERSATION 27   LEVEL 2
+USER: USER_76
+
+xxxxxxxxxxx And you sure will need it, even if it's just to change the battery, but as for software 
+I'm not so sure they will give you support for all the 140000 apps that you will have to use 
+because the ones Apple gives you are not so useful.
+
+BEGIN CONVERSATION 28 FOR POSTING 12793
+
+COMMENT 84  REFERS TO: ORIGINAL POSTING   CONVERSATION 28   LEVEL 0
+USER: USER_77
+
+xxx Great post!
+
+I agree these two platforms are going to fight for the same business. With the number of old PC's 
+still out there in most homes and businesses there is ample room for both to prosper.
+
+Google could also compete very well with a ChromeOS tablet or an Android tablet. There are several 
+Android `tablets' out there already although I'm not sure any are as large as the iPad.
+
+I would LOVE to see some more collaboration between Google and Apple in regards to communications, 
+collaboration, and productivity apps like it looks like they are with Google Maps -- iPad has a 
+very compelling enterprise and SMB strategy right out of the box in the ability to leverage Google 
+Apps (not to mention Salesforce.com, Workday, PracticeFusion, Zoho, Box.net, etc). I think the 
+iWork Suite is really cool but I don't think it will ever be a core competency of Apple.
+
+The tablet device has many advantages over a dedicated netbook. Ultimately it becomes the dominate 
+form for the same reasons the laptop replaced the desktop. Right now it looks like Google and Apple 
+will be two very significant players in this space. They'll both win big as will consumers.
+
+Again, great post!
+
+BEGIN CONVERSATION 29 FOR POSTING 12793
+
+COMMENT 85  REFERS TO: ORIGINAL POSTING   CONVERSATION 29   LEVEL 0
+USER: USER_78
+
+xxx Why Chrome and not Android?
+
+BEGIN CONVERSATION 30 FOR POSTING 12793
+
+COMMENT 86  REFERS TO: ORIGINAL POSTING   CONVERSATION 30   LEVEL 0
+USER: USER_79
+
+xxx the iPad can't possibly keep up with the iPhone app store review policy
+
+summary of iPad <URL/> http://bit.ly/ds2UQM
+
+BEGIN CONVERSATION 31 FOR POSTING 12793
+
+COMMENT 87  REFERS TO: ORIGINAL POSTING   CONVERSATION 31   LEVEL 0
+USER: USER_80
+
+xxx Think about it from a developer's standpoint.  With Apple, you could develop something on the 
+iPhone or iPad first, and then tweak it a little bit to work on the other device.  You only have to 
+think about a max of two platforms, both with a huge base of users who have demonstrated that they 
+are will to pay good money for quality apps.
+
+Then look at Google.  You could develop something for Android, and there's no guarantee that it 
+will even work on all android phones.  Plus, they have not done a good job training their users to 
+pay for apps, so you'll hardly make any money even if it's one of the best apps on the platform.  
+And then you can't leverage any of your android hard work on Chrome OS because the two have even 
+less in common.
+
+If developers are the difference between success and failure (as a different TC post has said 
+today) then Apple has already won.  It's the ecosystem.
+
+COMMENT 88  REFERS TO: COMMENT 87   CONVERSATION 31   LEVEL 1
+USER: USER_30
+
+xxxxxxx ...I'm not so sure about that (the money side of things). Watch this video from Dan Pink: 
+<URL/> http://www.ted.com/talks/dan_pink_on_motivation.html and you'll see money is not a great 
+motivator for creative work.
+
+Sure, plenty of people will continue to develop for the iPhone & iPad to support themselves, but 
+you only have to look as far as Firefox or WordPress to see that tens of thousands of developers 
+will gladly work for free.
+
+COMMENT 89  REFERS TO: COMMENT 88   CONVERSATION 31   LEVEL 2
+USER: USER_80
+
+xxxxxxxxxxx Of course money is a great motivator -- like I was saying, look at the number of 
+creative apps on the App Store vs. Android Market.  It can't be the only motivation, but it helps a 
+lot.
+
+COMMENT 90  REFERS TO: COMMENT 87   CONVERSATION 31   LEVEL 1
+USER: USER_81
+
+xxxxxxx I wish i was stupid enough to prove you wrong, but I wont, money is goood hehe, no need for 
+competition here.
+
+BEGIN CONVERSATION 32 FOR POSTING 12793
+
+COMMENT 91  REFERS TO: ORIGINAL POSTING   CONVERSATION 32   LEVEL 0
+USER: USER_82
+
+xxx Apple did a netbook. It was the Air. It was too expensive for what it offered and didn't make 
+many waves even among Apple fans because it wasn't snappy enough given its price.
+
+COMMENT 92  REFERS TO: COMMENT 91   CONVERSATION 32   LEVEL 1
+USER: USER_33
+
+xxxxxxx well isn't the defining characteristic of a netbook its price, even more than its size?
+
+COMMENT 93  REFERS TO: COMMENT 92   CONVERSATION 32   LEVEL 2
+USER: USER_83
+
+xxxxxxxxxxx The problem with the netbook is there is no defining characteristic other then cost.  
+There is no innovation in user interface and the netbook as a shrunk laptop makes many compromises 
+to reach the low price point.  The IPADs price is in the range of netbooks and it has better 
+battery life and probably a better user experience for the kinds of tasks people use netbooks for 
+so it will definitely compete with this class of device.
+
+COMMENT 94  REFERS TO: COMMENT 93   CONVERSATION 32   LEVEL 3
+USER: USER_84
+
+xxxxxxxxxxxxxxx And less memory.  And no expansion ports.  And no option to run an IM app in the 
+background while you are creating a document.
+
+So, no....it is far from a netbook equivalent.
+
+BEGIN CONVERSATION 33 FOR POSTING 12793
+
+COMMENT 95  REFERS TO: ORIGINAL POSTING   CONVERSATION 33   LEVEL 0
+USER: USER_85
+
+xxx and what makes you think that Microsoft is not working on a similar device right now. As a 
+matter of fact, we have all seen Courier. If that is not real then something on  the lines will 
+come up. Surely that device will be more customizable. One thing is for sure, iPad is nowhere close 
+to an iPhone and nor it is close to consumer laptops  in terms of future sales.
+
+It will remain as a niche product like MacBook Pros.
+
+BEGIN CONVERSATION 34 FOR POSTING 12793
+
+COMMENT 96  REFERS TO: ORIGINAL POSTING   CONVERSATION 34   LEVEL 0
+USER: USER_74
+
+xxx Let's remember that Microsoft is also said to release a tablet called the Courier. It looks way 
+more promising than the iPad. If Microsoft releases that this year is sure to definitely kill the 
+iPad, as it will offer much more functionalities thatn the iPieceofjunk.
+
+People who buy the iPad will be excited at first and will use it. As time goes by, they will just 
+park it in some dirty corner and let it collect dust.
+
+If you have a HDTV at home, why would you want to watch tv on a 9.7 inch screen. If you have a PC 
+or iMac at home, you're goint to prefer to multitask on your Flash-supporting computer than on the 
+iPad. If you want to play games at home, you can use your PS3, Wii, or Xbox. How many are going to 
+give up their video-game consoles? If you want to use outdoors, you're going to have to get the 3G 
+version with AT&T plans.
+
+There's nothing appealing about this piece of junk. Even as an ebook reader, your eyes will hurt!
+
+BEGIN CONVERSATION 35 FOR POSTING 12793
+
+COMMENT 97  REFERS TO: ORIGINAL POSTING   CONVERSATION 35   LEVEL 0
+USER: USER_86
+
+xxx whichever platform or device that helps make developers money will win. My money is on apple. 
+It's really hard for developers to make money on Google platform and device because they just want 
+everything to be free and slap some ads on there.
+
+When's the last time you hear about any developer became a millionaire from an Android app or 
+Chrome app?
+
+BEGIN CONVERSATION 36 FOR POSTING 12793
+
+COMMENT 98  REFERS TO: ORIGINAL POSTING   CONVERSATION 36   LEVEL 0
+USER: USER_87
+
+xxx This is why E. Schmidt left Apple. He was able to see what'll happen
+
+C'mon. Be serious.
+
+I'm european.
+
+BEGIN CONVERSATION 37 FOR POSTING 12793
+
+COMMENT 99  REFERS TO: ORIGINAL POSTING   CONVERSATION 37   LEVEL 0
+USER: USER_88
+
+xxx the thing about Chrome OS is...it's not shipping. It's still in testing stages, it's still 
+dependent on Google writing drivers to address the hardware in specific laptops and you may or may 
+not want to use yet another laptop just because it's a netbook.
+
+The thing that is funny to watch is when netbooks came out there was this perception that everyone 
+was going to toss out their current laptop and instantly buy a netbook. When that did not happen, 
+those who did toss out their laptop went OH DANG!!! I miss my laptop and then had a netbook which 
+made it to craigslist and a laptop that they went back to because it never did enough for them.
+
+iPad does solve a problem. It provides a platform for those of us who use our iPhones or Touch's to 
+do certain things but wish that the screen was larger at points in time. It's not a full laptop but 
+it has a screen that puts ANY netbook to shame and speedwise was quite impressive.
+
+Sure ChromeOS when it comes out will be nice in some regards and fill some niche. However when your 
+email goes out via GMAIL it is on the web and you cannot get to it. We've seen this with Gmail 
+outages time and again. The iPad can either leave your email on the server of me.com or on your own 
+hosted servers, or it can probably inhale it and then synch it back somewhere else later on.
+
+ChromeOS competes with WindowsXP, VISTA, 7. It does not stack up against OSX or the iPhone OS which 
+is out there on millions of platforms (touchs, iphones, and soon iPads). It will be slow in getting 
+out there, no matter how many people say differently as we've seen things take time to entrench 
+before.
+
+iPad will sell. I am planning the things to add to mine already when it's home with me in around 90 
+days.
+
+Love,
+
+Mike
+
+BEGIN CONVERSATION 38 FOR POSTING 12793
+
+COMMENT 100  REFERS TO: ORIGINAL POSTING   CONVERSATION 38   LEVEL 0
+USER: USER_89
+
+xxx Not sure if the iPAD and the GoogOS netbooks compete head on. There might be crossover apps but 
+each will play to its strengths. Goog is going after Microsoft with their OS and online apps and 
+iPAD could just be an entertainment/leisure apps consumer device.

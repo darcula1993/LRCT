@@ -1,0 +1,980 @@
+TITLE:   The Switch From iPhone To Android, And Why Your First Impression IsWrong
+
+POSTER:  POSTER_1
+POSTING: 12802
+POSTED:  Jan 9, 2010 
+
+
+BEGIN POSTING 12802
+
+<IMAGE/>
+
+Imagine if you took a longtime Windows user and sat them in front of a Mac for a couple days.  
+They'd probably complain about superficial things like the change in mouse acceleration and the 
+unintuitive button placement (the Close button is on the opposite side of the window).  It's not 
+until a week or two after you start using a Mac as your primary computer that you overcome these 
+issues and begin to fully grasp some of the benefits it offers.  No, it may not be for you, but 
+there's really no way you can tell for sure without taking the plunge and using one as your primary 
+computer. It's the same way with Android.
+
+I know, because I had the same experience when I made the leap from the iPhone to Android a few 
+months ago.  When I got my Droid, I was initially very pleased with it: the screen is amazing and 
+the device flies.  But as the luster wore off, I began to have my doubts.  I couldn't figure out 
+how to access options that should have been readily visible. Menus weren't where they should have 
+been.  All in all, Android made me feel stupid, because much of what I had learned about using the 
+iPhone — habits that had become nearly instinct — no longer applied.
+
+A week or so later, it clicked.  When I want an option that isn't already visible, I hit the 
+dedicated `Menu' button just beneath the screen.  Need to jump to a previous screen in an app or 
+the web browser? Hit the dedicated `Back' button.  In some ways, these are actually better than the 
+soft buttons located in iPhone apps, because they're always in the same place.  It also saves some 
+screen real estate.  Using them has become totally second nature to me.  But they aren't the reason 
+why I've decided I prefer Android over the iPhone.
+
+Which brings me to the things that have turned me into a full-time Android user.  Gmail on Android 
+kicks the pants off of the iPhone's Email client — something that I'm not the <URL/> only person to 
+notice.  As someone who does a lot of Emailing, that makes a *huge* difference to me.  Google Voice 
+integration is fantastic.  The ability to run multiple applications at the same time is a breath of 
+fresh air.  Those three things were enough to seal the deal.
+
+Had I only used an Android device for a few days, these aforementioned pros may have been 
+overshadowed by the fact that the phone felt so unfamiliar.  Or I may have been turned off by one 
+of the things Android gets wrong, like that there's no way to update multiple applications at the 
+same time and the default music player is remarkably ugly.  But when it comes to using the phone in 
+real life on a day-to-day basis, those problems aren't enough to outweigh the productivity benefits 
+Android offers me.
+
+And, really, that's my point.  Many of these iPhone users who are testing out Android for the first 
+time tend to get hung up on things that feel unfamiliar, or are griping about issues that will only 
+affect them once in a blue moon.  No, Android isn't as pretty as the iPhone, and there are plenty 
+of things it doesn't do as well as it could. But until you've taken the plunge to see what lies 
+beneath its less-polished exterior, you haven't really seen what it has to offer.
+
+END POSTING 12802
+
+BEGIN COMMENTS FOR POSTING 12802
+
+BEGIN CONVERSATION 0 FOR POSTING 12802
+
+COMMENT 0  REFERS TO: ORIGINAL POSTING   CONVERSATION 0   LEVEL 0
+USER: USER_1
+
+xxx that back button is key. navigation is actually much easier on the android.
+
+COMMENT 1  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_2
+
+xxxxxxx Yeah, absolutely. Coming from iPhone it's a bit strange but after a few days you get the 
+hang of how it (the back button) works and suddenly everything is awesome.
+
+COMMENT 2  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_3
+
+xxxxxxxxxxx But when we first tried the iPhone it felt natural immediately, we didn't have to 
+`unlearn' old habits from our antiquated Nokias & Blackberrys.  That happened because the iPhone is 
+a truly great design.
+
+If the Nexus One was a truly great design, something that pushed things forward in anywhere near 
+the way the iphone did (3 years ago!) it would be the same.
+
+Whether its better or worse, at the end of the day the Nexus One is still just another iPhone clone.
+
+COMMENT 3  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_4
+
+xxxxxxxxxxxxxxx That's absolutely not true.  It took me a while to get used to the iPhone.  There 
+were things Iiked, things I didn't and finally it was the keyboard that was the deal breaker.  I 
+went to the G1 a year ago and recall getting excited about many things and chafing at the 
+weaknesses (mostly hardware).
+
+Every time I use the iPhone now, I can't believe how poor the user experience is compared to the 
+Android.  The iPhone looks sexy as hell, but Android is soooooo much more usable.  I'm especially 
+peeved about the back button now.  Sometimes it's on the top.  Sometimes on the bottom.  Sometimes 
+on the left.  At other times on the right.   And half the time, it's not even present and I have to 
+exit and restart the previous app.
+
+COMMENT 4  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_5
+
+xxxxxxxxxxxxxxxxxxx I’m going to agree that my experience required a bit of getting used to… I had 
+arrived to the newly minted 2G from a SE P910 but was testing a BlackBerry for development purposes 
+for a few months. There was a period where I just did not like the iPhone and it had a lot to do 
+with GMail and browsing. Great browser on the iPhone but, once you are set up with the information 
+flow, Opera Mini can work wonders. Die BB browser, die!
+
+I have yet to experience the Android, but would like to get a little further with development on 
+the platform and need to get one at some point. Apple, and their dismissal of publishing killed my 
+cash flow though! I would say that the next update or two will bring it to a solid consumer parity…
+
+COMMENT 5  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_6
+
+xxxxxxxxxxxxxxxxxxx I disagree that the iPhone just felt natural immediately... In my opinion it 
+feels restrictive and over simplified, sometimes to the point of frustration.
+
+If you only used it with the default apps that come with it then you might not have much of a 
+problem, but as soon as you want to use any third party app and then quickly check your email or 
+check something in a browser, the whole experience falls apart. Third party apps just exit when you 
+press the home button. Quit. Gone.
+
+Wow, what a great experience, it just feels so natural to lose what I was doing for no reason at 
+all. How convenient, I can't believe nobody thought of doing that sooner!
+
+Sorry for the sarcasm, but coming from both Android and Windows Mobile to the iPhone it's clear 
+that Apple still have a way to go. Hardware buttons are necessary (capacitive buttons like on the 
+Nexus One are mostly acceptable) because they make certain actions easier and quicker to perform. 
+Apple will struggle to change/introduce this though because it immediately makes their old devices 
+obsolete. It took them 20 something years to ship a mouse that had more than one button, but you'd 
+think they would have given up on one button is all you need by now!
+
+Android is in a really good position. One single phone design is never going to suit everybody 
+because not everybody has the same needs. Some people want small devices, others like larger 
+devices, others link d-pads and scroll balls, others like hardware keyboards, others like to 
+handwrite and draw things with a stylus. Flexibility and choice is key. Microsoft knows this, and 
+it looks like Google understand as well.
+
+2010 will be Android's year, purely because the iPhone is old hat and Microsoft are taking too long 
+to get Windows Mobile 7 out the door.
+
+COMMENT 6  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_7
+
+xxxxxxxxxxxxxxxxxxx As a Moto Droid user, I'll say that I don't like the responsiveness of the 
+touch screen sometimes. I wouldn't be all that surprised if the issue lies in the software 
+programming and can be corrected. The quality of the touch screen hardware is still solid in my 
+opinion.
+
+<b|All questions has definitely been answered: <URL/> 
+http://bit.ly/nexus-one-official-details-and-questions</b>
+
+COMMENT 7  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_8
+
+xxxxxxxxxxxxxxxxxxx I agree with most of what is said here. The Android phone is the winner when it 
+comes to pleasing the geek crowd. I had been using an iphone since the day it came out and I'm 
+currently on 3GS as my primary phone. I took Nexus on a trial basis for a week and have decided 
+that it's a much better fit for a peculiar audience, primarily MIT engineers.
+
+I gave my nexus to my dear friend who is close to finishing his masters in software engineering.
+
+COMMENT 8  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_9
+
+xxxxxxxxxxxxxxx That's very true.  With the iPhone, the sweet  goodness part of the UI is 
+immediately apparent.  After a minute or two, you're feeling empowered and comfortable.
+
+It's the weaknesses that take several days or weeks for you to really understanding and get 
+frustrated by.
+
+I never really gave much thought to how multitasking was really all that important for an iPhone 
+and it didn't seem to be at first.  After using one for a while though, losing your context all the 
+time as you move from one thing to another gets to be painful.   Not being able to look at an email 
+without closing an ssh session or remote desktop is painful.  Oh, and the way it doesn't mount as a 
+usb drive and let you do what you want with folders of video and music is painful.
+
+On the other hand, from what I've seen with Android, it's not so much the differences in the UI, 
+it's the inconsistency from one part of the UI to another.  It's the classic linux desktop problem. 
+ It's so open that everything on it has its own way of working and interacting.
+
+The best thing about Android is that it pushes the rest of the market ever harder.
+
+Apple has such a loyal fanbase because they focus on making feel good about their gear with 
+innovations that even when minor, really add up.  To wit:
+
+Why is it that it's only my iPhone/iTouch that pauses music if the headphone jack gets unplugged?
+
+Why is that it's only my iPhone/iTouch that changes the volume setting when I go from no headphones 
+(speaker) to headphones by plugging in the jack --- then goes BACK to loud when I unplug them?
+
+Why hasn't anyone else figured out how to let you have pause/play and volume button on the earbuds 
+without making an incompatible jack?
+
+I'm no apple fanboy --- in fact I prefer my windows 7 machines over a macbook --- but you've got to 
+hand it to Apple, they do treat their users to a smooth working ui.
+
+COMMENT 9  REFERS TO: COMMENT 8   CONVERSATION 0   LEVEL 4
+USER: USER_5
+
+xxxxxxxxxxxxxxxxxxx The reason that I am developing educational content for the iTablet/iPhone is 
+that a 3 year old can pop it open and use it. That said, I believe that it could be accomplished on 
+the Android as well. Also, I believe that Android will be a better platform for education 
+ultimately, and more cost effective.
+
+COMMENT 10  REFERS TO: COMMENT 8   CONVERSATION 0   LEVEL 4
+USER: USER_10
+
+xxxxxxxxxxxxxxxxxxx Lot's of music devices will pause the track when headphones get unplugged. The 
+Droid does this.
+
+COMMENT 11  REFERS TO: COMMENT 8   CONVERSATION 0   LEVEL 4
+USER: USER_11
+
+xxxxxxxxxxxxxxxxxxx The pre does all these things that you speak of.
+
+So only device is rather, wrong.
+
+COMMENT 12  REFERS TO: COMMENT 8   CONVERSATION 0   LEVEL 4
+USER: USER_12
+
+xxxxxxxxxxxxxxxxxxx The Palm Pre really does do all these things and way better than Android or the 
+iPhone, but the folks at Tech Crunch don't like Palm, so even if the product is superior to 
+Android, they will never admit it.
+
+The card swiping interface is the easiest interface ever with the ability to know clearly what app 
+is running or not in one click. It's easy to shut anything that you want to close with a swipe up.
+
+All the stuff the writer of this article mentions are much more intuitive on webOS, but he acts as 
+if Android is the new Jesus. Wonder if the folks at TC ever get paid or receive promotional items 
+from companies they push. It's the only way to explain how they can write what they have above 
+about Android while having severely dismissed in the past.
+
+You don't have to unlearn or relearn behavior with a Palm Pre. You just swipe your cards.
+
+COMMENT 13  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_13
+
+xxxxxxxxxxxxxxx How quickly we forget.  I remember commercials on prime time TV teaching people how 
+to use the iPhone.  Or, did you just know to swipe when you wanted to delete something?
+
+COMMENT 14  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_14
+
+xxxxxxxxxxxxxxx Seems like people don't agree with you fanboy! We have spotted a fanboy here, 
+people.
+
+COMMENT 15  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_15
+
+xxxxxxxxxxxxxxx Well I think,not able to do simple copy/paste,voice commands in Iphone gen 1 was a 
+step backward and calling it as a Smartphone was a mistake.
+
+What made iphone a hit was opening it to developers and thus you had amazing applications.
+
+Iphone is good not doubt,but something can't be better then Iphone is a falsey.
+
+COMMENT 16  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_16
+
+xxxxxxxxxxxxxxx Hi there,
+
+I disagree too... some things they get right, some things they do not. Same as OSX. I have a macpro 
+and a macbookpro, and on my MPB, I run Win7 as the default OS becasue I find it more intuititve and 
+easy -- largely, i guess, due to the phenomenon this article author is writing about. Things like 
+dragging a DVD to the trash to eject, doing a search and not being able to sort results by either 
+file size or by directory path etc, things that drive me mad on OSX but for a mac person they are 
+no problem.
+
+COMMENT 17  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_17
+
+xxxxxxxxxxxxxxx The reason it felt natural was becuase you had nothing to base a comparison on. You 
+had never used a phone like it before. You had no preconceptions.
+
+Now you've used a smart phone and you have certian things you expect to be in certian places. You 
+have developed preconceptions.
+
+If the first smartphone you ever picked up was the Nexus One, it might feel just as natural as the 
+iPhone does to you now.
+
+COMMENT 18  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_18
+
+xxxxxxx I suppose a pervasive back-button on the iPhone wouldn't make much sense since navigation 
+on the iPhone is always one app deep at a time. You'd be constantly quitting and restarting apps 
+just to get back to an app that was launched three steps ago.
+
+COMMENT 19  REFERS TO: COMMENT 18   CONVERSATION 0   LEVEL 2
+USER: USER_19
+
+xxxxxxxxxxx Right now, BGR is having a review and this back-button issue has been tackled too plus 
+its touchscreen sensitivity should be adjust a little bit.
+
+As for the opinions with the Nexus, I guess that's why this world keeps turning round and round --- 
+it's because of his types of opinion that makes the
+
+life exciting, in this case the people who believe in android/non android believers. <b|Details 
+Updates About Nexus One today: <URL/> http://bit.ly/nexus-one-updates-detail-opinions</b>
+
+COMMENT 20  REFERS TO: COMMENT 18   CONVERSATION 0   LEVEL 2
+USER: USER_20
+
+xxxxxxxxxxx This is one of the things I find the most annoying when using an iPod touch. I use a 
+Twitter client (or other app) and open a link to a webpage or Youtube. Once it's done I can't just 
+go back to Twitter though, I have to go to home screen and then back in.
+
+And it's not simply a matter of no multitasking on the iPhone. Even old feature phones tended to 
+have working back behavior across applications.
+
+COMMENT 21  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 3
+USER: USER_21
+
+xxxxxxxxxxxxxxx For 2 years, Google has carefully been following the trails of iPhone seeing their 
+flaws and using it for BIG G's advantage, today on their official
+
+statement it's clear that Google release the nexus one phone not as an iPhone Killer but a 
+smartphone for the whole world. You judge now which sounds more good to you. Nexus One is something 
+that has been waited for countries who didn't have the opportunity to have a high-end smartphone. 
+I'm talking about asia.<b>
+
+All questions has definetely been answered: <URL/> 
+http://bit.ly/nexus-one-official-details-and-questions</b>
+
+COMMENT 22  REFERS TO: COMMENT 21   CONVERSATION 0   LEVEL 4
+USER: USER_22
+
+xxxxxxxxxxxxxxxxxxx So, what did we learn guys? iPhone lovers should stay with iPhone and not dare 
+to make the change. For Geeks and Gadget lovers it barely matters till they are able to perform 
+basic task on the gadget!
+
+COMMENT 23  REFERS TO: COMMENT 21   CONVERSATION 0   LEVEL 4
+USER: USER_23
+
+xxxxxxxxxxxxxxxxxxx not really. networks (and phones) in japan and korea are usually half a step, 
+or a full step ahead of the rest of the world.
+
+most of the rest of asia, including developing asia such as thailand, malaysia, indonesia, 
+philippines, etc. have had 3G networks in place for years already, with users here enjoying various 
+phones with high-end functions such as cut and paste, mms, multitasking, and video calling over 3G. 
+even voice control has been commonplace since at least 2003, although not quite as polished and 
+extensive as the android implementation.
+
+imho, it's the US that's just catching on to the mobile craze, largely thanks to the iphone. of 
+course this is only good, because once the largest market in the world catches hold, more 
+innovations will be forthcoming.
+
+COMMENT 24  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 3
+USER: USER_24
+
+xxxxxxxxxxxxxxx maybe they should just have a button that pops up links to the where you were in 
+the last three apps or the home page
+
+COMMENT 25  REFERS TO: COMMENT 24   CONVERSATION 0   LEVEL 4
+USER: USER_4
+
+xxxxxxxxxxxxxxxxxxx It will help in that it will prevent swiping through screens to get to the 
+previous app icon on the desktop.  But it's not the same thing since unlike the Android, the 
+previous state is lost and you are restarting the app.
+
+COMMENT 26  REFERS TO: COMMENT 24   CONVERSATION 0   LEVEL 4
+USER: USER_25
+
+xxxxxxxxxxxxxxxxxxx They do... if you hold the home button down for a long press, you see the 
+previous 6 apps that you ran.
+
+COMMENT 27  REFERS TO: COMMENT 24   CONVERSATION 0   LEVEL 4
+USER: USER_26
+
+xxxxxxxxxxxxxxxxxxx @Elliott
+
+He was talking about on the iPhone.
+
+COMMENT 28  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 3
+USER: USER_27
+
+xxxxxxxxxxxxxxx Actually the only one responsible for the YouTube and Twitter multitasking is the 
+app's developer.  The Facebook app allows you to watch  videos posted by friends in the YouTube app 
+and once its done it returns you to the same place you were in on Facebook.  To fix this you simply 
+could write a couple of negative reviews about the app (in the app store on the phone or computer) 
+and more than likely it will be addressed in the next update.
+
+I think it hilarious that people complain about features that arent even available on another 
+device (my iPod touch doesnt feed me and wipe my arse).  Like the reviewer said, it seems you can’t 
+find a related review, blog post, or tweet that isn’t gauging the device based on how it compares 
+to Apple’s juggernaut.  This is because Apple was the first to do it and they still continue to be 
+the industry leader.  These iPhone Clones are playing catchup.  Good luck with that.
+
+Marcus get a Zune, then you wont have to worry about apps, you ungrateful schmuck!
+
+COMMENT 29  REFERS TO: COMMENT 28   CONVERSATION 0   LEVEL 4
+USER: USER_28
+
+xxxxxxxxxxxxxxxxxxx Why do iPhone fanboys even bother?
+
+COMMENT 30  REFERS TO: COMMENT 28   CONVERSATION 0   LEVEL 4
+USER: USER_25
+
+xxxxxxxxxxxxxxxxxxx Stockholm Syndrome (google it)
+
+COMMENT 31  REFERS TO: COMMENT 28   CONVERSATION 0   LEVEL 4
+USER: USER_29
+
+xxxxxxxxxxxxxxxxxxx Yeah you know, good luck to Windows too, last I heard they were just playing 
+catch up to the Lisa.
+
+COMMENT 32  REFERS TO: COMMENT 28   CONVERSATION 0   LEVEL 4
+USER: USER_29
+
+xxxxxxxxxxxxxxxxxxx To pretend like eliminating the Apple monopoly on the 
+hardware/software/everything isn't going to give Android a nudge up in the line over Apple is 
+completely shortsighted.  Not everyone in the world is going to want to buy Apple's complete line 
+of products to not have interoperability problems.  Android is to the smartphone what Windows was 
+to the PC, a fresh breath of air for those who want the usefulness of a smartphone, but don't feel 
+the need to make a fashion statement in the process.
+
+COMMENT 33  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 3
+USER: USER_27
+
+xxxxxxxxxxxxxxx Actually the only one responsible for the YouTube and Twitter multitasking is the 
+app's developer.  The Facebook app allows you to watch  videos posted by friends in the YouTube app 
+and once its done it returns you to the same place you were in on Facebook.  To fix this you simply 
+could write a couple of negative reviews about the app (in the app store on the phone or computer) 
+and more than likely it will be addressed in the next update.
+
+I think it hilarious that people complain about features that arent even available on another 
+device (my iPod touch doesnt feed me and wipe my arse).  Like the reviewer said, it seems you can’t 
+find a related review, blog post, or tweet that isn’t gaging the device based on how it compares to 
+Apple’s juggernaut.  This is because Apple was the first to do it and they still continue to be the 
+industry leader.  These iPhone Clones are playing catchup.  Good luck with that.
+
+Marcus get a Zune, then you wont have to worry about apps, you ungrateful schmuck!
+
+COMMENT 34  REFERS TO: COMMENT 33   CONVERSATION 0   LEVEL 4
+USER: USER_14
+
+xxxxxxxxxxxxxxxxxxx Actually I have had an iPod Touch for over an year! Don't try to overrate the 
+device. The combined features of customization, multi-tasking, better camera, faster processor, etc 
+beats the shit out of iPhones. Steve Jobs needs to recreate the magic of 2007. As simple as that! 
+As far as being grateful is considered, I have 0% loyalty. I pay for my phones. These companies 
+don't donate one to me. The day they donate me one, or pay for my surgery, I will be a bigger 
+iPhone fanboy than what you are. But for the time being, I am the customer, I run the show, I pay 
+the money, I will try to buy the best thing the money can buy. I don't pay fanboyism fee.
+
+COMMENT 35  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 3
+USER: USER_30
+
+xxxxxxxxxxxxxxx Exactly. It's retarded. I got the iphone, thought I loved it -- it sure is fun for 
+a while. But when you get down to business, it just isn't usable like it should be.  At the end of 
+the day, it's just a very cool toy -- a novelty. And I wasn't paying AT&T prices for that.
+
+Imagine if the iphone implemented multitasking today.  The phone wouldn't be so speedy, would it? 
+And how long would that already too short of a life battery then last? Makes you wonder what's 
+really under the hood...
+
+COMMENT 36  REFERS TO: COMMENT 35   CONVERSATION 0   LEVEL 4
+USER: USER_5
+
+xxxxxxxxxxxxxxxxxxx People _are_ multitasking with their iPhones, using the Backgrounder app. And 
+with another app (I'm using ProSwitcher) you can even do Palm style swipe to change programs. Works 
+great. I can crank Pandora while using Waze to GPS my way around town. Battery life is (duh) 
+shortened, but I don't care. Speed-wise, I haven't noticed a problem, maybe it's because I'm on a 
+3GS.
+
+COMMENT 37  REFERS TO: COMMENT 18   CONVERSATION 0   LEVEL 2
+USER: USER_31
+
+xxxxxxxxxxx reminds me of something i read about the original macos interface, where one had one 
+window per folder open.
+
+it worked fine as long as one had a mostly flat and casual usage scenario. But once one scaled the 
+usage up, the number of windows open to reach a specific file exploded.
+
+all in all, it seems that the apple designed interfaces work ok for casual use, but never really 
+scale.
+
+COMMENT 38  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_32
+
+xxxxxxx And the long-press home button to get to the recent app switcher is pretty nice once you 
+get used to remembering to use it.
+
+COMMENT 39  REFERS TO: COMMENT 38   CONVERSATION 0   LEVEL 2
+USER: USER_33
+
+xxxxxxxxxxx Dang, missed your comment and said the same thing.
+
+That thing is pretty sweet, though.
+
+COMMENT 40  REFERS TO: COMMENT 38   CONVERSATION 0   LEVEL 2
+USER: USER_34
+
+xxxxxxxxxxx Palm users are already used to that.
+
+COMMENT 41  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_35
+
+xxxxxxx I feel like your comments about Nexus One is too positive to be self-thought.
+
+COMMENT 42  REFERS TO: COMMENT 41   CONVERSATION 0   LEVEL 2
+USER: USER_36
+
+xxxxxxxxxxx I feel like your poor grammar are to obvious to be self thought...
+
+COMMENT 43  REFERS TO: COMMENT 42   CONVERSATION 0   LEVEL 3
+USER: USER_35
+
+xxxxxxxxxxxxxxx There is a non-stop promotion of Nexus One at techcrunch.com for two days and I 
+don't think that this is all natural.  That's my point. What's yours?
+
+COMMENT 44  REFERS TO: COMMENT 43   CONVERSATION 0   LEVEL 4
+USER: USER_37
+
+xxxxxxxxxxxxxxxxxxx When the iPhone was released there was non-stop coverage/promotion of it as 
+well.
+
+This is TechCrunch -- if they weren't talking about the Nexus they be failing to deliver the 
+content everyone is interested in.
+
+COMMENT 45  REFERS TO: COMMENT 43   CONVERSATION 0   LEVEL 4
+USER: USER_38
+
+xxxxxxxxxxxxxxxxxxx perhaps the platform/handset is actually nice and is worth reporting on? The 
+Android/Droid/Nexus gushing is no different than when the first few iPhones came out
+
+COMMENT 46  REFERS TO: COMMENT 43   CONVERSATION 0   LEVEL 4
+USER: USER_39
+
+xxxxxxxxxxxxxxxxxxx It's still the first few days for the Nexus One and you are already tired?
+
+I waited..and waited for the Twitter buzz to stop! <IMAGE/> 
+
+COMMENT 47  REFERS TO: COMMENT 42   CONVERSATION 0   LEVEL 3
+USER: USER_35
+
+xxxxxxxxxxxxxxx By the way it's not to obvious it should be too obvious
+
+COMMENT 48  REFERS TO: COMMENT 42   CONVERSATION 0   LEVEL 3
+USER: USER_40
+
+xxxxxxxxxxxxxxx kaiynne, learn to spell and use grammar if you're going to criticise grammar.
+
+to should be too
+
+are should be is
+
+COMMENT 49  REFERS TO: COMMENT 48   CONVERSATION 0   LEVEL 4
+USER: USER_41
+
+xxxxxxxxxxxxxxxxxxx good one.
+
+COMMENT 50  REFERS TO: COMMENT 48   CONVERSATION 0   LEVEL 4
+USER: USER_42
+
+xxxxxxxxxxxxxxxxxxx you guys do not get, do you?
+
+it was deliberate, it is called taking the piss.
+
+COMMENT 51  REFERS TO: COMMENT 48   CONVERSATION 0   LEVEL 4
+USER: USER_43
+
+xxxxxxxxxxxxxxxxxxx And it was a weak attempt at taking the piss out of someone if it had to be 
+explained. -2
+
+COMMENT 52  REFERS TO: COMMENT 48   CONVERSATION 0   LEVEL 4
+USER: USER_44
+
+xxxxxxxxxxxxxxxxxxx Actually, dawg, it didn't.  Give yourself -2.
+
+COMMENT 53  REFERS TO: COMMENT 41   CONVERSATION 0   LEVEL 2
+USER: USER_45
+
+xxxxxxxxxxx Well, then go to gizmodo/engadget/BGR and you can see plenty of negativity to go 
+around. The editors at tech crunch seem to like the Nexus One, get over it.
+
+COMMENT 54  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_46
+
+xxxxxxx Consistent user experience is the key. Pre does it without a back button with back gestures.
+
+Android, like the Blackberry, is an efficient OS once you get used to it, but it disappoints me in 
+how little it advances the user experience.
+
+COMMENT 55  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_33
+
+xxxxxxx That and the Alt-Tab-esque long press on the Home button. I use that sucker all the damn 
+time.
+
+BEGIN CONVERSATION 1 FOR POSTING 12802
+
+COMMENT 56  REFERS TO: ORIGINAL POSTING   CONVERSATION 1   LEVEL 0
+USER: USER_47
+
+xxx You're absolutely right about the buttons!
+
+BEGIN CONVERSATION 2 FOR POSTING 12802
+
+COMMENT 57  REFERS TO: ORIGINAL POSTING   CONVERSATION 2   LEVEL 0
+USER: USER_48
+
+xxx well said, polished interface is not everything we want in a phone. It's more  about the 
+features and apps and Android seriously lacks on latter.
+
+COMMENT 58  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_49
+
+xxxxxxx I've really never had an issue with apps. Comparing absolute numbers of apps is stupid at 
+this point. While it is true that the iPhone seems to have more high quality apps, I can't think of 
+a case where I couldn't find a comparable (albeit less polished) app on Android.  Except for games 
+— iPhone is clearly dominant there.
+
+COMMENT 59  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_50
+
+xxxxxxxxxxx Jason -
+
+Do you know why the Pre was able to get big games companies to come onboard when it is a wasteland 
+in the android world? Did they pay them off? Is it various handset/builds/resolution issues?
+
+COMMENT 60  REFERS TO: COMMENT 59   CONVERSATION 2   LEVEL 3
+USER: USER_33
+
+xxxxxxxxxxxxxxx Google didn't evangelize game companies, Apple did. The situation is almost the 
+same as the PC/Mac divide on games, back in the day.
+
+Doesn't matter that much -- the platform's growing and the games -- and app functionality and 
+design in general -- are getting better every week or so, it seems like. There's gold in them thar 
+hills after all, as it turns out.
+
+COMMENT 61  REFERS TO: COMMENT 59   CONVERSATION 2   LEVEL 3
+USER: USER_33
+
+xxxxxxxxxxxxxxx Oh, sorry -- Apple and Palm did. Been one of my biggest gripes about Android since 
+the beginning, BTW, as I'm a big gamer.
+
+Whatever, I still like the platform best.
+
+COMMENT 62  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_51
+
+xxxxxxxxxxx So in summary, comparing either quality or quantity of apps is pointless.
+
+Umm, do you have another metric?
+
+COMMENT 63  REFERS TO: COMMENT 62   CONVERSATION 2   LEVEL 3
+USER: USER_22
+
+xxxxxxxxxxxxxxx For that reason the app store already has sheer number of crap apps, dont take it 
+otherwise, so how do you decide about quality there?
+
+COMMENT 64  REFERS TO: COMMENT 63   CONVERSATION 2   LEVEL 4
+USER: USER_51
+
+xxxxxxxxxxxxxxxxxxx Huh?
+
+COMMENT 65  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_52
+
+xxxxxxxxxxx Where do you actually get the apps? <URL/> http://www.android.com/market/ is so sparse 
+and ugly i have a hard time believing its the official store? Am i wrong? I am very interested in 
+the Android but cant seem to locate a directory with any of the supposed 18k apps. help!
+
+thanks,
+
+dm
+
+COMMENT 66  REFERS TO: COMMENT 65   CONVERSATION 2   LEVEL 3
+USER: USER_33
+
+xxxxxxxxxxxxxxx There is no official online Android Market. However, the Mplayit Android Arcade on 
+Facebook displays much of the contents of the Market, and androlib.com and cyrkit.com both 
+duplicate all the Market's listings online.
+
+Oh, there are a handful of alternate markets you can buy from, too, some with their own shop apps 
+you can put on your phone. But that may be Advanced Android.
+
+COMMENT 67  REFERS TO: COMMENT 66   CONVERSATION 2   LEVEL 4
+USER: USER_4
+
+xxxxxxxxxxxxxxxxxxx I used to love Cyrket, but <URL/> http://www.cyrket.com/ has long since stopped 
+working.  Are you going somewhere else?
+
+I do agree that the market truly sucks.  We definitely need a desktop based Market, update all, 
+delete from list, better search (oh the irony!) .
+
+After Cyrket has stopped working, I have rarely gone to the market looking for new apps.  Just too 
+slow and painful.
+
+COMMENT 68  REFERS TO: COMMENT 65   CONVERSATION 2   LEVEL 3
+USER: USER_53
+
+xxxxxxxxxxxxxxx There is no official Android market.
+
+Combined with Google flipping off the phone companies by obsoleting a product in a couple of months 
+then bypassing them entirely by direct sales, that sure sounds like a recipe for domination against 
+the iPhone. Is there somewhere I can go to take a hands-on look at Nexus One without buying one? 
+No, not that obsolete Droid thing. (That's my thought and most likely the thought of many who were 
+considering the Droid.) Oh, it's only mail order? So much for leveraging thousands of existing 
+retail outlets where you can physically try the phone. I guess I'll just spend roughly $600 sight 
+unseen. <IMAGE/> 
+
+Once Apple releases a combo GSM/CDMA phone and every U.S. carrier can sell the iPhone, and makes a 
+few software changes that permit official multitasking, we'll see who (still) dominates that market 
+-- with what will be over 200,000 apps immediately and easily available.
+
+COMMENT 69  REFERS TO: COMMENT 65   CONVERSATION 2   LEVEL 3
+USER: USER_54
+
+xxxxxxxxxxxxxxx On the N1, I just click on the Market icon, and it takes me to a Market with pretty 
+much all the apps I use. EverNote, Pandora, Foursquare, etc, are all there. Oh -- and a number of 
+timers to make up for the lack of built-in timer. Not as many apps as the iPhone but I don't need 
+85 fart apps.
+
+COMMENT 70  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_33
+
+xxxxxxxxxxx Yeah, particularly with a handful of successful iPhone apps, now, that cost two-three 
+hundred dollars and do nothing but churn out RSS readers their customers are flooding the App Store 
+with.
+
+Boy, I wish there were some real-world models you could apply to a situation like that to predict 
+exactly how big a clusterfuck is likely to result.
+
+COMMENT 71  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_54
+
+xxxxxxxxxxx I am a hardcore Apple FanGirl (had all 3 gens of the iPhone, and every version of Mac 
+since the G4 and iBook days). Last week, I swapped my simcard out of my iPhone into the NexusOne. 
+Don't think I'm going back...
+
+Cons:
+
+The one thing I really miss is the *timer* built-in to the clock on the iPhone. I know, that seems 
+silly, but I've used that timer a lot for cooking etc. With the NexusOne, I had to go find a timer 
+*app*!
+
+I'm also never completely certain whether an app has quit or is still in the background using 
+battery, something I never had to worry about on my iPhone.
+
+Pros:
+
+Google Goggles totally rocks! I am amazed at the camera and ability to search with it for things 
+like *wines*.
+
+Google Voice built-in!
+
+Maps -Wow. The maps are beautiful. And the turn-by-turn navigation is built-in!
+
+Car-Home is a pretty kewl feature. All the right buttons for when you're in the car. Still -- it 
+would be nice if the headset could initiate voice-search somehow.
+
+The alt-tab like feature is pretty nifty.
+
+And I kinda like the window-shade notification system.
+
+GMail is quite nice -- although I tend to start with the oldest unread and go for newer, but I'm 
+okay with the built-in way to do it.
+
+All in all, I'm getting used to the NexusOne remarkably quickly -- and so far, really enjoying it.
+
+COMMENT 72  REFERS TO: COMMENT 71   CONVERSATION 2   LEVEL 3
+USER: USER_54
+
+xxxxxxxxxxxxxxx Since I can't edit, I'm going to add:
+
+I also prefer the keyboard on the N1! Surprised me but there it is.
+
+And for zooming, it was amusing -- I tried the pinch gesture and the phone gave me a zoom option! 
+Or just double tap and it works. No problem.
+
+COMMENT 73  REFERS TO: COMMENT 58   CONVERSATION 2   LEVEL 2
+USER: USER_31
+
+xxxxxxxxxxx as they say, 90% of everything is shit. So i am not surprised if the iphone have more 
+quality apps, as that basically comes out of the overall number of apps available.
+
+oh, and i recall that one can run into things like multiple apps that behave the same, but the 
+information provided is area-specific, so if one want info about multiple areas, one have to get 
+multiple apps.
+
+COMMENT 74  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_55
+
+xxxxxxx At least it's a quickly growing collection.
+
+COMMENT 75  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_56
+
+xxxxxxx Agreed, and thank you for saying that there's more to life than just the iPhone.
+
+COMMENT 76  REFERS TO: COMMENT 75   CONVERSATION 2   LEVEL 2
+USER: USER_57
+
+xxxxxxxxxxx ....than Nexus One too. Where is the Dell phone btw, is it released?
+
+I read on TC that its available in Dell China's website a long ago, and no information since then.
+
+COMMENT 77  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_58
+
+xxxxxxx What's the retention rate on iPhone apps again? If they aren't paid for, isn't it something 
+like under 5%?
+
+Just because the iPhone has a huge amount of apps, doesn't mean they're all worth having. The free 
+apps I have on my android phones are all high quality and I have used them for a year in most cases.
+
+Then again, I suppose unlike the typical iPhone user, I don't constantly download any app I see and 
+then get rid of it. If I download an app, it's because I am going to use it, like my Titter app, my 
+Amazon.com app, my Fandango app, my FourSquare app and my Last.FM app. All of these are free, too, 
+and high quality. In fact, I can't live without my Amazon.com app.
+
+COMMENT 78  REFERS TO: COMMENT 77   CONVERSATION 2   LEVEL 2
+USER: USER_58
+
+xxxxxxxxxxx Um, Titter should be Twitter, sorry.
+
+COMMENT 79  REFERS TO: COMMENT 78   CONVERSATION 2   LEVEL 3
+USER: USER_59
+
+xxxxxxxxxxxxxxx lol... i almost ran to my g1 to download this new porn app you speak of.
+
+COMMENT 80  REFERS TO: COMMENT 79   CONVERSATION 2   LEVEL 4
+USER: USER_60
+
+xxxxxxxxxxxxxxxxxxx Me too...
+
+COMMENT 81  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_61
+
+xxxxxxx unless you play games on your phone, [which the majority of people i know aren't accustomed 
+to], you `ll actually find that android has a better selection of free apps than the iphone. in 
+fact i can't remember an app that i `m missing.
+
+well, it's much uglier, but , whatever, i `m a guy.
+
+COMMENT 82  REFERS TO: COMMENT 57   CONVERSATION 2   LEVEL 1
+USER: USER_62
+
+xxxxxxx I find the iphone's sexy UI to be gimicky and a waste of CPU resources.  The simplicity of 
+android and its ability to multitask make the iphone a useless toy.  Heck even the oldest 
+smartphone of them all the Blackberry can multitask.
+
+COMMENT 83  REFERS TO: COMMENT 82   CONVERSATION 2   LEVEL 2
+USER: USER_51
+
+xxxxxxxxxxx The iPhone multi-tasks. It simply does not allow 3rd party apps to do it. The reasons 
+why have been well-hashed.
+
+You'll find out why after using Android for a while...
+
+BEGIN CONVERSATION 3 FOR POSTING 12802
+
+COMMENT 84  REFERS TO: ORIGINAL POSTING   CONVERSATION 3   LEVEL 0
+USER: USER_63
+
+xxx That's refreshing to read. You've described what's wrong with many reviews on tech blogs these 
+days. After reading some of the Nexus One reviews I've noticed a negative tone, partly related to 
+the massive hype it got and then reviewers feeling underwhelmed, but it also seems like some people 
+are mad it's not an iPhone. Stop reviewing products this way! I understand the comparison but then 
+you have to look at the device alone to gauge its merits.
+
+COMMENT 85  REFERS TO: COMMENT 84   CONVERSATION 3   LEVEL 1
+USER: USER_64
+
+xxxxxxx Especially true when you read garbage like this <URL/> 
+http://www.boygeniusreport.com/2010/01/09/google-android-personal-thoughts.
+
+COMMENT 86  REFERS TO: COMMENT 85   CONVERSATION 3   LEVEL 2
+USER: USER_33
+
+xxxxxxxxxxx That is the most beautifully demented thing I've read all week MG didn't write.
+
+COMMENT 87  REFERS TO: COMMENT 85   CONVERSATION 3   LEVEL 2
+USER: USER_65
+
+xxxxxxxxxxx i've stopped my reader subscription to that site as a result of that post.  aside from 
+being extraordinarily comical, it only highlights exactly what this techcrunch article is talking 
+about.  people are SO used to their iphone, in a creepy way for some (like BGR), and as a result 
+they can't truly appreciate the different environment of the new device in their hands.  i, for 
+one, liked this article, thanks Jason.
+
+COMMENT 88  REFERS TO: COMMENT 84   CONVERSATION 3   LEVEL 1
+USER: USER_66
+
+xxxxxxx About 40 million iPhones have been sold so far, and maybe another 25 million iPod touch's.  
+This platform has the highest satisfaction rate of any tech device I've ever heard of.  The Nexus 
+One has been out for 5 days.  How is then that there are so many experts here on the new phone, and 
+so few advocates of the iPhone?  Is this perhaps a biased crowd?
+
+I would also point out that once a device becomes as dominant as a software platform for mobile 
+apps as the iPhone, it hardly makes sense to get anything else unless the difference is a lot 
+larger than anything people are talking about here.
+
+COMMENT 89  REFERS TO: COMMENT 88   CONVERSATION 3   LEVEL 2
+USER: USER_65
+
+xxxxxxxxxxx your arguments are ones I would use to support the Blackberry mobile platform and the 
+Windows platform.  Way to go there champ...you highlighted exactly why the iphone ain't all that.
+
+BEGIN CONVERSATION 4 FOR POSTING 12802
+
+COMMENT 90  REFERS TO: ORIGINAL POSTING   CONVERSATION 4   LEVEL 0
+USER: USER_67
+
+xxx I am also very, very frustrated by the iPhone, so much that i have no more excuses to keep it. 
+I think this will help me make the switch easier. Thanks for the article
+
+BEGIN CONVERSATION 5 FOR POSTING 12802
+
+COMMENT 91  REFERS TO: ORIGINAL POSTING   CONVERSATION 5   LEVEL 0
+USER: USER_68
+
+xxx I totally disagree.  I am a mobile phone design industry veteran.  I have an iPhone, a 
+Milestone and a Nexus One.  It is plainly obvious to anyone that uses them that the iPhone is on an 
+entirely different planet of usability....simply brilliant.  The two Android phones I have are, 
+simply, rubbish.  The icons are tiny and fiddly, the menu layouts contravene even the most basic 
+user interface design rules, they have faster processors but from are user perspective appear very 
+clunky.  I could go on and on.  Three years in mobile technology is an age, yet the iPhone is still 
+the benchmark: why do you think that is? Please use common sense in your articles, not Google hype.
+
+COMMENT 92  REFERS TO: COMMENT 91   CONVERSATION 5   LEVEL 1
+USER: USER_69
+
+xxxxxxx I don't believe I read in Google hype really in this article.   I think Android is a 
+wonderful platform and they've got a great concept.  I use Android for its open-ness.  I have 
+nothing to hate about the iPhone and nothing to hate about Android (except that the G1 is extremely 
+slow, and I would rather have something with a snapdragon --- I'll probably buy a new one later 
+this year after I see a few more options).  I love the competition that both companies are 
+providing and I expect to see a great turnout for the mobile industry in the coming years.
+
+COMMENT 93  REFERS TO: COMMENT 91   CONVERSATION 5   LEVEL 1
+USER: USER_2
+
+xxxxxxx You clearly have not used your Android phones very much. Once you get the hang of 
+navigating between apps, you want to throw your iPhone out the window. Everytime on an iPhone you 
+do smething that has to open another app, the only way to get back is to hit home, find the app 
+again, open it (which starts it from scratch again) and then get back to the screen you were on.
+
+You call that brilliant? It's crap and is one of the main reasons I can't stand using an iPhone for 
+anything beyond web browsing. (I have to admit, the iPhone's browser is quite a bit better than 
+Android's, but Android's is still perfectly usable).
+
+COMMENT 94  REFERS TO: COMMENT 93   CONVERSATION 5   LEVEL 2
+USER: USER_70
+
+xxxxxxxxxxx once you get the hang of it...
+
+but this is the point isn't it? You just knew how to use the iPhone from day one.
+
+COMMENT 95  REFERS TO: COMMENT 94   CONVERSATION 5   LEVEL 3
+USER: USER_71
+
+xxxxxxxxxxxxxxx You did?  You're unique then.  iphone has to be learned.. and it's not at all 
+intuitive in some areas.
+
+COMMENT 96  REFERS TO: COMMENT 94   CONVERSATION 5   LEVEL 3
+USER: USER_47
+
+xxxxxxxxxxxxxxx The only `intuitive' interface is the nipple. After that it's all learned.
+
+COMMENT 97  REFERS TO: COMMENT 96   CONVERSATION 5   LEVEL 4
+USER: USER_33
+
+xxxxxxxxxxxxxxxxxxx Hahahaha, I said the exact same thing elsewhere in this thread.
+
+COMMENT 98  REFERS TO: COMMENT 94   CONVERSATION 5   LEVEL 3
+USER: USER_72
+
+xxxxxxxxxxxxxxx No, thats not the point.  the difference between it taking a week to learn how to 
+use a UI fully and a day is negligable because you keep a phone for longer than a year.
+
+COMMENT 99  REFERS TO: COMMENT 94   CONVERSATION 5   LEVEL 3
+USER: USER_73
+
+xxxxxxxxxxxxxxx I remember Apple telling people give the UI and the keyboard a month and you'll get 
+used to it. Plus all the commercials showing the interface. So, no, you didn't just pick up the iPhone and know how to use it. It was pounded into to you.
+
+COMMENT 100  REFERS TO: COMMENT 99   CONVERSATION 5   LEVEL 4
+USER: USER_5
+
+xxxxxxxxxxxxxxxxxxx You pick it up, and you know how to use it. Over time you adapt to preferences. 
+It was simply the first phone a toddler could pick up and use. The Android is more sophisticated and Apple’s predilection to forced simplicity is evident here — one-button mice unless you go buy your own… My honest take as somebody who promotes both platforms is that over the next two iterations Android will become usable. That ”coming soon” attitude is evident in many of the comments even by fans. Developmentally, it is the same. I will be able to develop for the platform in this time, and games may become viable. We’ll see.

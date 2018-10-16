@@ -1,0 +1,46 @@
+This README file contains the original corpus and the annotated corpus as utilized in Wacholder et al. (2014) and Ghosh et al. (2014).
+There are four separate folders in this release. 
+
+*Original* contains the blog posts as well as their comment sections (Section 2 in Wacholder et al.,2014).
+
+*expert_annotated* contains the annotations of the expert annotators. The annotations contain specifically the "Target", "Callout"
+texts and their start/end points (utilized in measuring inter-annotator agreements and Clusters). For more details about "Target", "Callout"
+please refer to the papers and the annotation guideline in the *docs* folder.
+
+*docs* contains the guideline for expert annotations.
+
+*turker_annotated_task1* contains the data used in "Categorization of Arguments" task as reported in Ghosh et al. (2014). We have
+provided a separate README file inside the *turker_annotated_task1* folder for more information regarding the "Categorization of Arguments"
+task. Please cite (Ghosh et al., 2014) if you use this part of the data. 
+
+(Note, we will provide the annotated data from the 2nd AMT annotation task ("Analysis of Stance and Rationale" - ref. Ghosh et al. ,2014)
+in our next data release.) 
+
+For any questions or doubt, please contact ninwac@rutgers.edu. 
+General comments about the corpus, research and the results are also welcome! 
+
+If you use this data for your research, please cite :- 
+
+@InProceedings{wacholder2014,
+  author    = {Wacholder, Nina and Muresan, Smaranda and Ghosh, Debanjan  and Aakhus, Mark},
+  title     = {Annotating Multiparty Discourse: Challenges for Agreement Metrics},
+  booktitle = {Proceedings of the 8th Linguistic Annotation Workshop},
+  month     = {August},
+  year      = {2014},
+}
+ 
+and
+
+@InProceedings{ghosh-EtAl:2014:W14-21,
+  author    = {Ghosh, Debanjan  and  Muresan, Smaranda  and  Wacholder, Nina  and  Aakhus, Mark  and  Mitsui, Matthew},
+  title     = {Analyzing Argumentative Discourse Units in Online Interactions},
+  booktitle = {Proceedings of the First Workshop on Argumentation Mining},
+  month     = {June},
+  year      = {2014},
+  address   = {Baltimore, Maryland},
+  publisher = {Association for Computational Linguistics},
+  pages     = {39--48},
+  url       = {http://www.aclweb.org/anthology/W14-2106}
+}
+ 
+ 

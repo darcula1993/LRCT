@@ -1,0 +1,60 @@
+This README file contains information about the "Categorization of Arguments" task as reported in Ghosh et al. (2014).
+First we describe the task-description as posted to Amazon Mechanical Turk (AMT) platform and then describe the associated corpus.
+
+*******************************************
+
+1. Categorization of Arguments
+
+In this experiment, you are presented with a pair of text spans acquired from a discussion forum in a technical blog.
+In every pair of text spans, the 2nd span is a response to the first text span, which we call a "Target". Your task is to categorize this response
+(i.e. the 2nd text span) as either a) clearly agreement, b) probably agreement, c) probably disagreement,
+d) clearly disagreement, or e) None of the above. Categorize the selection based on your impression about the 
+response to the first text span (i.e. the target). Here are a short definition of the categories for your peruse.
+
+Clearly agreement: The response definitely agrees with the first part. 
+Probably agreement: The response seems to agree with the first part. 
+Probably disagreement: The response seems to disagree with the first part. 
+Clearly disagreement: The response definitely disagrees with the first part. 
+None of the above: I can't tell, or, none of the answers above seem appropriate.
+
+*******************************************
+
+2. Corpus Description
+
+As reported in Ghosh et al. (2014), four sub-corpus are utilized for the categorization of arguments tasks. Corpus files are
+tab delimited and the first rows in the files depict the columns. For more information regarding "Callout" and "Target", please
+refer to the paper and/or the slides (Ghosh et al. (2014)). The sub-corpus are :-
+-- android100.turker1.txt
+-- ipad.100.turker1.txt
+-- layoffs.100.turker1.txt
+-- twitter.100.turker1.txt
+
+Note, choice1 represents "Clearly agreement", choice2 represents "Probably agreement", choice3 represents "Probably disagreement", 
+choice4 represents "Clearly disagreement" and choice5 is "None of the above". The Categorization of Arguments task, as reported in the paper
+was done by combining choice1 and choice2 into a single category ("agreement") and similarly choice3 and choice4 were combined
+into the category "disagreement". 
+
+Also note, even if we have another sub-corpus called "ban100" in the original folder, we have not run any AMT experiments
+with this sub-corpus.
+
+********************************************
+
+For any questions or doubt, please contact debanjan.ghosh@rutgers.edu. 
+General comments about the corpus, research and the results are also welcome! 
+If you use this data for your research, please cite - 
+
+@InProceedings{ghosh-EtAl:2014:W14-21,
+  author    = {Ghosh, Debanjan  and  Muresan, Smaranda  and  Wacholder, Nina  and  Aakhus, Mark  and  Mitsui, Matthew},
+  title     = {Analyzing Argumentative Discourse Units in Online Interactions},
+  booktitle = {Proceedings of the First Workshop on Argumentation Mining},
+  month     = {June},
+  year      = {2014},
+  address   = {Baltimore, Maryland},
+  publisher = {Association for Computational Linguistics},
+  pages     = {39--48},
+  url       = {http://www.aclweb.org/anthology/W14-2106}
+}
+
+
+
+

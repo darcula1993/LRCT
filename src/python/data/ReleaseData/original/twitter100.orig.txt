@@ -1,0 +1,962 @@
+﻿TITLE:   Why I Don't UseTwitter
+
+POSTER:  POSTER_1
+POSTING: 9434
+POSTED:  Aug 17, 2009 
+
+
+BEGIN POSTING 9434
+
+<IMAGE/>
+
+**A Manifesto**
+
+I believe in <URL/> Twitter. I believe people want to use it and that it is useful to them. I'm 
+less sure of its susceptibility to monetization, but then again, I cover <URL/> cameras and <URL/> 
+ramen-bots, not internet business. Still, since I'm coming down to the <URL/> TechCrunch 50 
+conference in a few weeks, and will likely be the only person attending who does *not* use Twitter, 
+I felt I should furnish an explanation. Not that I think it really matters to anyone whether I use 
+it or not, but by striking preemptively, I'll avoid talking myself hoarse in explaining it 
+repeatedly to those of you I meet. I'm also curious to see if there are any other abstwainers (or 
+better yet, <URL/> Tweetotallers, either way I've coined a term) in the TechCrunch readership, and 
+if so, what your perspective is.
+
+Now, I'd be lying if I said I hadn't been waiting for a chance to express myself on this (which may 
+be why it is so *very *long (though my parenthetical style of writing shares the blame)), but it 
+seems relevant enough and the timing is right. Please bear in mind that these are <em>my own 
+reasons</em> for not using the service, not reasons for you to stop; I don't mean to proselytize. 
+I'll start with my primary assertion: that a tweet is fundamentally valueless.
+
+<IMAGE/>
+
+What is a tweet? It is a quantity of data which I believe to be useless, at least in this context. 
+**What can be said in 140 characters is either trivial or abridged; in the first case it would be 
+better not to say it at all, and in the second case it would be better to give it the space it 
+deserves.** Of course, there are exceptions to this rule: It's a boy! for instance, is both 
+sufficient and worth telling everyone you know (incidentally, congratulations to CrunchGear writer 
+Matt on the new baby), but I think we all know that the bulk of Twitter is not life-changing 
+announcements or granules of compact wit and wisdom. Nor is it meant to be -- but *intentions* 
+aren't admissible in <em>my</em> court, sir.
+
+To proceed: the this context I mentioned above is simply that tweets are broadcast 
+indiscriminately. I think this further devalues them; an otherwise acceptable message (Brunch at 
+Hi-Spot at 1!) becomes impersonal and meaningless when it's sent to so many. Yes, there is @ for 
+specifying another tweet or Twitterer (would that they had called the site something else, this 
+accursed bird-based jargon drives me mad), but that just exacerbates things. I like to think of it 
+this way: Twitter is a bunch of friends sitting around a table, all shouting at the same time -- 
+and shouting mundanities at that. The @ function just means you shout somebody's name before the 
+mundanity. Everyone else still has to listen. Conversation is impossible; every exchange is 
+telegraphic (as is, unfortunately, increasingly true in other media).
+
+But the tweet can have a link in it, of course, which makes it more versatile -- except links are 
+subject to the same value reductions as simple text. Tweeting a link is a lot like sending it to 
+your whole address book. If you think *everyone you know* should see it, it better be 
+<em>worth</em> shouting from the mountaintops. How rare that is! If you like other people finding 
+your content for you, on their schedule, this isn't a problem, but for me it is. Add in the fact 
+that probably half of tweets are automatically generated, and what we've got here is a failure to 
+communicate anything of value.
+
+The natural objection to this is that you choose to follow people, you don't have it forced upon 
+you. True! I say, then, if someone is so regularly finding content of merit, why don't they have a 
+*blog* where the content can be given context, discussion, and perhaps a preview so people aren't 
+going in blind? I <em>like</em> reading interesting blogs. I <em>don't</em> want to receive links 
+every time someone finds something they think everyone should see. Twitter just adds another layer 
+to the equation -- and I don't like layers.
+
+So there you have it. Every tweet out there is either unnecessary or unnecessarily abbreviated. Why 
+would anyone *want* to be the owner of such an awkward little package of data?
+
+<IMAGE/>
+
+This one might be controversial, but I embrace controversy. I make it uncomfortable. I put my hands 
+in its back pockets. I kiss it on the lips. Twitter, therefore, I say is an incomplete and clumsy 
+service. The halo of Twitter meta-services is indicative (in my opinion) less of the popularity of 
+the service and more of how it falls short of the mark. When it isn't down, Twitter provides A; 
+people want A, B, and C.
+
+It's just text, sure, that's what makes it Twitter -- but simplicity isn't the same as elegance 
+(though the two are often seen together). URL-shortened image hosting services suggest people want 
+to put their images right in the tweet-stream, or whatever you call it. Twitter applications like 
+Tweetdeck (that's one, right?) suggest that the web service is inadequate. And so on.
+
+One *could* exaggerate the scope of Twitter's service to being an alternative communication 
+protocol at a basic level, like email or IM, and say that clients are a natural extension of that 
+-- but I think that's disingenuous and wrong. Wrong because Twitter is meant to be <em>simple</em>, 
+not <em>fundamental</em>. It's a significant difference. Disingenuous because you know that's not 
+the case: if it were, Twitter would be better integrated with existing services.
+
+I'm not blaming Twitter for not being what *I* would have liked it to be -- but to jump on a 
+service that looks like a transitional form, so to speak, seems unwise if there is no utility in 
+it. I'll get on at Twitter 2.0, thanks.
+
+**It replaces nothing and adds nothing**
+
+What did you do before you tweeted? It's the social equivalent of an all points bulletin, or... a 
+quasar or something. What did you do before when you needed to send something of little consequence 
+or urgency to a bunch of people who may or may not want to see it? The only thing that comes to 
+mind is skywriting. Nowadays there are more ways than I can count. Twitter is certainly a big one, 
+but is it really better, easier, or faster than its competitors -- say, Facebook's feed? To the 
+untrained eye (that is to say, to *my *eye), it looks as if Facebook has Twitter humbled in many 
+ways (though if I'm honest, I'm not much of a Facebooker either).
+
+<IMAGE/>
+
+Twitter is certainly more mobile -- that much I grant it; Facebook should be much better at that, 
+and the FriendFeed acquisition should sew that up pretty tight in the months to come. Twitter is 
+certainly much better for featurephones (as opposed to smartphones), but that's a bit of a moving 
+target, since featurephones are getting smart and smartphones are getting cheap. If I took a 
+picture of something crazy with my phone, I'd rather send it to Facebook than Twitter, though with 
+Twitter it would probably reach more people, because Facebook's feed is almost as simple, and far 
+more robust. It's worth mentioning here that I'm pretty much talking out of my ass, though, because 
+I'm not an especially active user of Facebook, and I may have mentioned that I don't use Twitter at 
+all. But if you would forbid the *argument ad ignorantium*, well, there goes the entire internet.
+
+**News breaks alike on the followed and the unfollowed**
+
+As for spreading news, there I can see it might be helpful for some. Not that the same news that 
+gets broken on Twitter couldn't have been broken somewhere else, but Twitter news does have a 
+certain something. A certain urgency, since it's part of an expanding wave of retweets, and you're 
+expected to tweet it forward. I'm sure some of you are wondering how a blogger can get by without 
+using Twitter (Matt Hickey is, at least). I would remind you that this article is appearing on 
+TechCrunch, the world's leading source of Twitter-based news. Every tweet coming into existence has 
+to be *personally approved* by Mike and MG before it appears for the rest of the internet. With 
+these guys on watch, I've got nothing to worry about. (They could stand to <URL/> filter a bit more 
+though)
+
+The point is that I don't see any particular reason to use Twitter rather than, say, relying on 
+Facebook or RSS or even email. If it's hot, it'll spread one way or the other. And unfortunately, I 
+can't think of a less suggestive way of saying that.
+
+Besides, (and I hate to trot out this old argument, but I think it's applicable here) weren't we 
+saturated with information *before* Twitter came on the scene? Do we really need a constant hail of 
+tweets in addition to the emails, IMs, messages, posts, votes, invitations, events, feeds, and god 
+knows what else? I say thee nay! And on that point:
+
+<IMAGE/>
+
+This may sound a bit rich coming from a *professional blogger*, but I don't like to broadcast 
+myself. Before this post I have tried to restrict my self-reference on this blog and CrunchGear to 
+things like I'm more of a Canon guy, but... or SNES will always be superior to Genesis. I think 
+advertising yourself overtly or deliberately drawing attention is in poor taste, whether it's 
+tweeting your latest action, or having really big hair, or making everyone listen to your joke at a 
+party. Vanity! Twitter encourages it. This is more of a philosophical point, so I won't argue it 
+too much here, but it's my position that people should be saying fewer, more meaningful things, 
+directed at people to whom they are relevant -- as opposed to the equivalent of sending up a signal 
+flare and screaming that you super hate mondays, blah!
+
+It appeals to the reptilian part of the brain, I think. It's an alpha male thing, having followers. 
+When you're broadcasting, you get to think people are paying attention, and who doesn't like 
+attention? But our attention is spread so thin these days that the portion devoted to something as 
+minor as a tweet may as well be none at all. Broadcasting may console the ego, but it's false 
+consolation. What it is a surrogate for (meaningful attention) can't be gotten that way.
+
+**Why do you tweet?**
+
+But enough of that. I could probably rattle off a couple more paragraphs on this and that, but I 
+don't want to abuse the reader's patience. 1800 words is 1796 too many, when I could have simply 
+pulled a Bartleby and said I prefer not to. You must understand, I thought it worth a thorough 
+examining, considering TechCrunch and Twitter are joined at the hip. I console myself in that this 
+article, though overlong to a degree you all will be revealing to me shortly, has still far fewer 
+words than are found in an average week's posts on Twitter.
+
+<IMAGE/>
+
+I only forbid one answer: because everyone else is doing it. That's the same reason people wore 
+Hammer pants.
+
+[**Update**: Good to see so many responses. Very interesting. So much venom, though!]
+
+END POSTING 9434
+
+BEGIN COMMENTS FOR POSTING 9434
+
+BEGIN CONVERSATION 0 FOR POSTING 9434
+
+COMMENT 0  REFERS TO: ORIGINAL POSTING   CONVERSATION 0   LEVEL 0
+USER: USER_1
+
+xxx I agree... the thrill is gone.
+
+COMMENT 1  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_2
+
+xxxxxxx And what's more, it was never there
+
+COMMENT 2  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_3
+
+xxxxxxxxxxx Exactly. Twitter was always lame. I'm glad I don't know anyone who `tweets'. For social 
+entertainment I recommend <URL/> http://f2bbs.com and it's mobile version -- <URL/> 
+http://mobile.f2bbs.com
+
+COMMENT 3  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_4
+
+xxxxxxxxxxxxxxx Devin, as punishment for writing this long-winded and defamatory article, I command 
+you to never write anything again unless it is 140 characters or less.
+
+COMMENT 4  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_5
+
+xxxxxxxxxxxxxxxxxxx wow..finally an article on TC asking people not to tweet..loving this!
+
+COMMENT 5  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_6
+
+xxxxxxxxxxxxxxxxxxx Twitter is teh BOMB!
+
+COMMENT 6  REFERS TO: COMMENT 3   CONVERSATION 0   LEVEL 4
+USER: USER_7
+
+xxxxxxxxxxxxxxxxxxx Or why not someone else from TC write an article with title Why I Use Twitter
+
+COMMENT 7  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_8
+
+xxxxxxxxxxxxxxx No at all, twitter is not just a social media for breaking the news and it 
+does makes sense and spreads the communication in few seconds. it helps to develop business.. It 
+has its own value as do ﻿emails, IM, messages, posts, votes, invitations, events, feeds. Of course 
+its faster than other medias.
+
+COMMENT 8  REFERS TO: COMMENT 7   CONVERSATION 0   LEVEL 4
+USER: USER_9
+
+xxxxxxxxxxxxxxxxxxx I do agree with you .. it helps a lot .. if its really not that good .. then 
+why we are discussing this ,.. or if its really that bad . then why the hell ppl would want to hack 
+it .. apart frm that .. its really easy to get toknow whats going on the other side of the world .. 
+ppl tweet frm different countries .. discuss differet things .. and same things ..
+
+And infact if you have posted here then you must be knowing that even techcrunch has an option of 
+twitter ....
+
+Best,
+
+Daina
+
+COMMENT 9  REFERS TO: COMMENT 2   CONVERSATION 0   LEVEL 3
+USER: USER_8
+
+xxxxxxxxxxxxxxx More than value for business, Twitter takes most of your time. Once you get caught 
+in the flurry of tweets, you're lost. There's no escape for you. Again, if you are away from 
+Twitter, you lose. Because  people forget you if you don't tweet regularly. It's a catch to 
+situation.
+
+COMMENT 10  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_10
+
+xxxxxxxxxxx Devin, there was a thrill when there was actual possibility that Twitter was about 
+connecting to people but it quickly turned into a massive broadcast/link machine (@Techcunch 
+included in this sin). And the Featured list really did a tremendous damage.
+
+COMMENT 11  REFERS TO: COMMENT 10   CONVERSATION 0   LEVEL 3
+USER: USER_11
+
+xxxxxxxxxxxxxxx This is also my problem with Twitter, it's become this bullshit marketing tool for 
+social media experts. Every day I'm followed by more and more and it's getting beyond annoying. 
+Techcrunch, as you said, are rightly guilty of this also.
+
+COMMENT 12  REFERS TO: COMMENT 11   CONVERSATION 0   LEVEL 4
+USER: USER_12
+
+xxxxxxxxxxxxxxxxxxx You got it. Any social media property will end up being a spam fest. While I do 
+not personally tweet, I have experimented with clients on tweet marketing campaigns with 
+surprisingly good results, but those results are only short-lived, because as more and more jump on 
+the bandwagon, it will become diluted as a marketing platform. I think the service has basically 
+jumped the shark, if you will, when I see some ATT wireless commercial where the kids are making 
+fun  of the parents twittering and facebooking on the porch. While the commercial seems to be 
+selling the idea of people doing that, strangely it has the opposite effect. Making those services 
+look very uncool.
+
+COMMENT 13  REFERS TO: COMMENT 11   CONVERSATION 0   LEVEL 4
+USER: USER_13
+
+xxxxxxxxxxxxxxxxxxx The thing about Twitter is that it started as a really cool idea --- a cloud of 
+consciousness unfolding before your eyes.  Everybody's cloud was different.  It can become a cloud 
+of spam if you let it, but you don't have to let it.
+
+I never follow anyone who follows me unless I know them or their tweets are of some interest to me. 
+ That's the beauty of it --- you don't have to follow anyone.
+
+COMMENT 14  REFERS TO: COMMENT 10   CONVERSATION 0   LEVEL 3
+USER: USER_14
+
+xxxxxxxxxxxxxxx it quickly turned into a massive broadcast/link machine
+
+Exactly! I wrote a column myself like the post above, about having similar sentiments:
+
+<URL/> 
+
+Twitter is a sucker's game that only serves the needs of a tiny elite
+
+The heart of it was that I didn't want to be cog in that broadcast/link machine. Many people didn't 
+seem to grasp that point, and I got a lot of flack replying basically you-can-chat! But I don't 
+want to chat in little public snippets.
+
+Twitter is low-level celebrity for the chattering class. And that's not for me.
+
+So much venom, though!
+
+Yeah. Another celebrity aspect <IMAGE/> .
+
+COMMENT 15  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_15
+
+xxxxxxxxxxx i've come to the conclusion that its not techcrunch's bloggers. its the company 
+techcrunch its self.  here we all see more blabbering on about useless crap. do you guys get paid 
+to be this insignificant?
+
+why couldnt you tweet this;
+
+blah blah blah im going to a nerd fair and i want to tell everyone why im so cool for not trying to 
+be a sheep like all of you losers! (and i still have 6 characters left)
+
+why couldnt you just tweet that your a moron! it would have saved us all the time.
+
+all i read was look i can use big word to describe to everyone im a idiot.
+
+now i realize techcrunch deserves you on the payroll. not because you try to sound smart but 
+because you waste more time.
+
+so far 62 retweets.
+
+COMMENT 16  REFERS TO: COMMENT 15   CONVERSATION 0   LEVEL 3
+USER: USER_2
+
+xxxxxxxxxxxxxxx What?!
+
+COMMENT 17  REFERS TO: COMMENT 16   CONVERSATION 0   LEVEL 4
+USER: USER_15
+
+xxxxxxxxxxxxxxxxxxx your starting to get it what?! was that a tweet, you  twat?!
+
+is you dont like twitter you should have disabled the comment section to your worthless nonsense.
+
+COMMENT 18  REFERS TO: COMMENT 16   CONVERSATION 0   LEVEL 4
+USER: USER_16
+
+xxxxxxxxxxxxxxxxxxx I agree with your what?!
+
+The first non-pro Twitter post and you are called a twat.  Nice...  I see you did not get the free 
+sample of Twitter Kool-aid!  (me neither)
+
+I agree with your comment (see I'm not a SOB 100% of the time)
+
+Why do I need to have Grandma tweet me the texture of Grandpa's poop?  Don't want to know and don't 
+care?  Why does everyone think that they are so special to let everyone know what they are doing at 
+that moment?  (Sorry, but I was not apart of a Frat house sheep clan)
+
+But that is just my opinion and like they say... ...everyone has one and they think theirs does not 
+stink
+
+COMMENT 19  REFERS TO: COMMENT 16   CONVERSATION 0   LEVEL 4
+USER: USER_17
+
+@@@@@
+
+xxxxxxxxxxxxxxxxxxx I like what <URL/> http://www.Clasilistados.org did with their famous site
+
+@@@@
+
+COMMENT 20  REFERS TO: COMMENT 15   CONVERSATION 0   LEVEL 3
+USER: USER_10
+
+xxxxxxxxxxxxxxx Popa means Ass in Russian, look it up...
+
+COMMENT 21  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 4
+USER: USER_18
+
+xxxxxxxxxxxxxxxxxxx I'd just like to confirm that this is true, because it made me laugh.  In 
+Russian his name is Adrian Butts.
+
+COMMENT 22  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 4
+USER: USER_2
+
+xxxxxxxxxxxxxxxxxxx All right everyone, point and laugh!
+
+COMMENT 23  REFERS TO: COMMENT 20   CONVERSATION 0   LEVEL 4
+USER: USER_19
+
+xxxxxxxxxxxxxxxxxxx Just for accuracy sake: Adrian Popa is a Romanian name, and it actually means 
+Adrian the Priest.
+
+Although I must admit that he does seem to be a total ass ...
+
+COMMENT 24  REFERS TO: COMMENT 15   CONVERSATION 0   LEVEL 3
+USER: USER_20
+
+xxxxxxxxxxxxxxx WTF!?
+
+COMMENT 25  REFERS TO: COMMENT 15   CONVERSATION 0   LEVEL 3
+USER: USER_21
+
+xxxxxxxxxxxxxxx lolz @ your a moron!
+
+COMMENT 26  REFERS TO: COMMENT 15   CONVERSATION 0   LEVEL 3
+USER: USER_22
+
+xxxxxxxxxxxxxxx Wow, Adrian is angry. About what I have no idea!
+
+COMMENT 27  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_23
+
+xxxxxxxxxxx Amen Devin!
+
+I hate to always be bad mouthing twitter but there really isn't much good to say about it so all 
+you're left with is how overrated it is.
+
+Although I think twitter is useless I like programs that measure the... volume?  of people making 
+their little shouts about this or that.
+
+It's like a giant cacophony of useless user input from people I don't care to listen to.  But when 
+one collective shout starts to rise in volume above the noise it's interesting as it works like a 
+gauge of what people are actively taking about in real time.
+
+Twitter is useless; but what a great source of raw social input for data-mining the talk to of the 
+day.  But considering the internet is for spam and porn I don't know if it's something worth taping 
+into.
+
+COMMENT 28  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_24
+
+xxxxxxxxxxx Its not that there is nothing good about it.  Its just that whatever is there is 
+over-hyped.
+
+It does enable expression and real time communication.
+
+But its further adding to the clutter and redundancy on web.
+
+I am just waiting for the twitter buy out news...any guess by when it may happen?
+
+COMMENT 29  REFERS TO: COMMENT 1   CONVERSATION 0   LEVEL 2
+USER: USER_25
+
+xxxxxxxxxxx You're clearly vain enough to stick around to read and respond here all night -- I 
+would think you'd love Twitter.
+
+After all, your many answers to these inane comments (mine included, but who said everything has to 
+be meaningful?) are like awkwardly done Twitter replies.
+
+Also: why are there so many people named Adrian in these comments?
+
+Twitter helped me reach people I would have had a much, much harder time reaching (and as a 
+consequence it has helped to speed the growth of my business).
+
+Would I use it if I didn't see the business value? Nope.
+
+Twitter or no Twitter, you're wasting your talent. Just because you're fairly good at writing your 
+way through a sentence doesn't mean you're actually saying anything interesting.
+
+Sorry, but that really was masturbation, and I'm kinda bummed I won't get the time back. And I 
+didn't skim.
+
+COMMENT 30  REFERS TO: COMMENT 29   CONVERSATION 0   LEVEL 3
+USER: USER_26
+
+xxxxxxxxxxxxxxx You my friend, are a douchbag. Congrats.
+
+COMMENT 31  REFERS TO: COMMENT 29   CONVERSATION 0   LEVEL 3
+USER: USER_2
+
+xxxxxxxxxxxxxxx I don't know what to tell you if you think expression is masturbation and concern 
+is vanity.
+
+COMMENT 32  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_27
+
+xxxxxxx Twitter is highly valuable from an SEO and Aggregation standpoint. Link all of your Social 
+accounts (Facebook, Twitter, Flickr, Friendfeed, etc) together with Applications, and remove the 
+silo effect.
+
+COMMENT 33  REFERS TO: COMMENT 32   CONVERSATION 0   LEVEL 2
+USER: USER_28
+
+xxxxxxxxxxx The article has some points that I agree with. There's a lot of hype and so in the long 
+run Twitter may not change the world but the model is here to stay. In the end, it may also not be 
+Twitter that wins but the space and may be somewhere else.
+
+But as an example, people will always follow celebrities for the same reason that they read and 
+watch TMZ. Its also very useful from a local business model, I've found it particularly useful for 
+finding deals.
+
+Finally, the search engine is very useful. When Clinton freed the American journalists in N. Korea, 
+Twitter was the best place I found to verify this when the news broke. Thus, throws on ads there 
+and monetize. I defintely see the value to the service. People should question: market size, 
+structure and potential winner not so much viability of model.
+
+COMMENT 34  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_29
+
+xxxxxxx 1. it's not always abridged: you can include links to websites like this one
+
+2. it's not always public: you can direct message someone
+
+3.it's not valueless: the people in Iran protesting the elections used twitter to communicate where 
+to go for help since hospitals betrayed them to the authorities
+
+4.it does add something: immediacy. news spreads like wildfire. it cannot be contained. govts 
+cannot hide what they do like before. it will get tweeted IMMEDIATELY and retweeted.  saying 
+twitter is useless is like the idiots who questioned the value of CNN, CSPAN & 24hr NEWS
+
+COMMENT 35  REFERS TO: COMMENT 34   CONVERSATION 0   LEVEL 2
+USER: USER_30
+
+xxxxxxxxxxx I was right with you until
+
+ saying twitter is useless is like the idiots who questioned the value of CNN, CSPAN & 24hr NEWS
+
+If you think these corporations (CNN & CSPAN) provide news then you're ripe for picking by these 
+same corporations that will feed you news or any other vital information via Twitter.
+
+Please wake up for fux sake.
+
+COMMENT 36  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_31
+
+xxxxxxx Try Woofer. It has a 1400 character MINIMUM! Http://woofertime.com
+
+COMMENT 37  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_32
+
+xxxxxxx I agree so much, Twitter is just useless. I mean, I'm in the same boat as you, what is 
+actually the point of it?
+
+I mean, this article does a good job on explaining <URL/> why Twitter isn't manly.  Although it's 
+meant to be funny, a lot of what it says is so true.
+
+COMMENT 38  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_33
+
+xxxxxxx And there's mathematical proof that the value of Twitter is zero. To paraphrase Douglas 
+Adams:
+
+The number of Tweets generated is infinite (since many/most are generated automatically, we can 
+assume this will only continue and grow exponentially to be an infinite number). The number of 
+valuable Tweets is finite.  Any finite number divided by infinity is zero (or a number 
+infinitesimally larger than, but never equal to, zero, or f/I=1/I).
+
+COMMENT 39  REFERS TO: COMMENT 38   CONVERSATION 0   LEVEL 2
+USER: USER_21
+
+xxxxxxxxxxx That would be proof that the average value is zero, not the total value.  Total value 
+would be the sum of all tweets, which as you mentioned is positive and infinite (though less 
+infinite than worthless tweets).
+
+COMMENT 40  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_34
+
+xxxxxxx I agree, total vanity.  I may spend too much time on Facebook occasionally, but I'll be 
+damned if I think that all of my friends care if I update my status several times a day.  How is 
+Twitter any different from that?
+
+COMMENT 41  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_35
+
+xxxxxxx Interesting, then, that I was alerted of your article via Twitter. Would you argue that the 
+140 characters that led me to your article were useless?
+
+COMMENT 42  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_36
+
+xxxxxxx It will be interesting to see how things play out once the Ashton Kutcher and other celebs 
+are all tweeted out...and if things play out as rumored with major brands being charged for their 
+time on Twitter.  If that happens, people are going to start questioning the efficienty, 
+opportunity cost and ROI of being entrenched on twitter.
+
+COMMENT 43  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_37
+
+xxxxxxx i tweet because i think information is dispersed quicker there. i write on average a blog a 
+day, but take some vacations. i find a weakness in twitter other than what u have mentioned.
+
+if i write a blog, put up its link, and im being followed by a person who follows 700 other guys, 
+my tweet will disappear as soon as it arrives, and only be seen when you access my profile. in 
+effect, my article might not be seen by many. facebook, however, has helped drive traffic to my 
+blog. still starting out, so that's what i need. feedback, criticism, and traffic. and facebook 
+achieves it more i think. u have valid reasons in your post about how twitter falls short, but for 
+the time being i would like to use every avenue i have to get my articles read, my writing style 
+fixed, and get my topics to be more appealing. twitter helps somewhat, so ill take it!
+
+COMMENT 44  REFERS TO: COMMENT 43   CONVERSATION 0   LEVEL 2
+USER: USER_37
+
+xxxxxxxxxxx i mean to say a post a day. thanx
+
+COMMENT 45  REFERS TO: COMMENT 0   CONVERSATION 0   LEVEL 1
+USER: USER_38
+
+xxxxxxx Hey everyone!  Twitter was just a joke.  A prank to see who would fall for a useless 
+service that only narcissists could love.  But the funniest thing is, it stuck. Ahhhh!
+
+COMMENT 46  REFERS TO: COMMENT 45   CONVERSATION 0   LEVEL 2
+USER: USER_39
+
+xxxxxxxxxxx Just like Daylight Savings Time.
+
+BEGIN CONVERSATION 1 FOR POSTING 9434
+
+COMMENT 47  REFERS TO: ORIGINAL POSTING   CONVERSATION 1   LEVEL 0
+USER: USER_40
+
+xxx Dude, tweets are valuable because they stay true to one point, and don't let users ramble on. I 
+can see why Twitter wasn't working out for you.
+
+COMMENT 48  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_41
+
+xxxxxxx HAH. It's funny because he used a lot of words.
+
+COMMENT 49  REFERS TO: COMMENT 48   CONVERSATION 1   LEVEL 2
+USER: USER_42
+
+xxxxxxxxxxx and today's Stating The Obvious awards goes to...
+
+COMMENT 50  REFERS TO: COMMENT 48   CONVERSATION 1   LEVEL 2
+USER: USER_43
+
+xxxxxxxxxxx BING!
+
+COMMENT 51  REFERS TO: COMMENT 50   CONVERSATION 1   LEVEL 3
+USER: USER_44
+
+xxxxxxxxxxxxxxx ya...it's funny cause it's true -- Dane Cook
+
+COMMENT 52  REFERS TO: COMMENT 51   CONVERSATION 1   LEVEL 4
+USER: USER_45
+
+xxxxxxxxxxxxxxxxxxx Are you seriously giving Dane Cook credit for it's funny 'cause it's true?  I 
+don't know if they originated it, but it was on <URL/> The Simpsons in `91.  Chances are they 
+didn't get it from a 19-year-old Cook.
+
+COMMENT 53  REFERS TO: COMMENT 48   CONVERSATION 1   LEVEL 2
+USER: USER_46
+
+xxxxxxxxxxx I think Devin must be an ENFJ which means his Myers briggs T shirt says Articulate, 
+articulate, articulate!
+
+COMMENT 54  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_47
+
+xxxxxxx This is funny, cause the way i heard of this article was through a tweet.
+
+COMMENT 55  REFERS TO: COMMENT 54   CONVERSATION 1   LEVEL 2
+USER: USER_48
+
+xxxxxxxxxxx  <IMAGE/> 
+
+COMMENT 56  REFERS TO: COMMENT 54   CONVERSATION 1   LEVEL 2
+USER: USER_49
+
+xxxxxxxxxxx me too.
+
+COMMENT 57  REFERS TO: COMMENT 56   CONVERSATION 1   LEVEL 3
+USER: USER_50
+
+xxxxxxxxxxxxxxx Me three.
+
+COMMENT 58  REFERS TO: COMMENT 57   CONVERSATION 1   LEVEL 4
+USER: USER_51
+
+xxxxxxxxxxxxxxxxxxx Me number 775 (because I RT it (using the coined term as the highlight) -- As 
+journalist in Brazil, I use Twitter to reach blogs like yours which I would take a little -- too 
+much -- longer to achieve if not for Twitter... and other very good sources of information. Believe 
+me! It´s not only a vanity thing. I think you have a good point but, there is a good point for 
+poeple of Iran and Cuba -- when they have only Twitter as a source of information to show what 
+others cannot... and it can open up a seminar on the subject...
+
+COMMENT 59  REFERS TO: COMMENT 56   CONVERSATION 1   LEVEL 3
+USER: USER_52
+
+xxxxxxxxxxxxxxx Me too! From @problogger.
+
+COMMENT 60  REFERS TO: COMMENT 54   CONVERSATION 1   LEVEL 2
+USER: USER_53
+
+xxxxxxxxxxx I didn't.
+
+COMMENT 61  REFERS TO: COMMENT 60   CONVERSATION 1   LEVEL 3
+USER: USER_54
+
+xxxxxxxxxxxxxxx Well i did
+
+COMMENT 62  REFERS TO: COMMENT 61   CONVERSATION 1   LEVEL 4
+USER: USER_55
+
+xxxxxxxxxxxxxxxxxxx well i didnt.
+
+COMMENT 63  REFERS TO: COMMENT 54   CONVERSATION 1   LEVEL 2
+USER: USER_56
+
+xxxxxxxxxxx same
+
+COMMENT 64  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_57
+
+xxxxxxx Not very convincing and logical devils advocate play <IMAGE/> 
+
+COMMENT 65  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_58
+
+xxxxxxx So Twitter is valuable because it's short and focused and doesn't let users ramble on? 
+Wait, isn't it supposed to be a SOCIAL tool? Doesn't socializing include communicating with others 
+in your own personal way? What would the world be like if we all just got to the point and didn't 
+ramble on? There were would basically be zero forms of entertainment or interesting conversation. 
+And lets not be naive about this, Twitter was intended to be used as a form of entertainment or 
+social communication -- NOT advertising your latest product.
+
+COMMENT 66  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_12
+
+xxxxxxx Tweets are for ADD culture who do not have the attention span to read 1800 words. OMG, 1800 
+words, is that like a book?
+
+COMMENT 67  REFERS TO: COMMENT 66   CONVERSATION 1   LEVEL 2
+USER: USER_59
+
+xxxxxxxxxxx You have to wonder, since A.D.D. is on the increase.  This article was a pleasure to 
+read though, Devin is a weaver of words.
+
+COMMENT 68  REFERS TO: COMMENT 47   CONVERSATION 1   LEVEL 1
+USER: USER_60
+
+xxxxxxx How do I star that?
+
+BEGIN CONVERSATION 2 FOR POSTING 9434
+
+COMMENT 69  REFERS TO: ORIGINAL POSTING   CONVERSATION 2   LEVEL 0
+USER: USER_61
+
+xxx I think Twitter is a form of entertainment. I question its' value as a news or other service.
+
+COMMENT 70  REFERS TO: COMMENT 69   CONVERSATION 2   LEVEL 1
+USER: USER_62
+
+xxxxxxx I use twitter because it's the only way I could find out about this blog: <URL/> 
+https://twitter.com/MarkClayson/status/3368828895
+
+COMMENT 71  REFERS TO: COMMENT 69   CONVERSATION 2   LEVEL 1
+USER: USER_16
+
+xxxxxxx Like WWF is a sport?????
+
+COMMENT 72  REFERS TO: COMMENT 71   CONVERSATION 2   LEVEL 2
+USER: USER_63
+
+xxxxxxxxxxx world wildlife federation is a sport?  Get your rifle!
+
+World Wrestling Entertainment (WWE) is not a sport.
+
+COMMENT 73  REFERS TO: COMMENT 72   CONVERSATION 2   LEVEL 3
+USER: USER_16
+
+xxxxxxxxxxxxxxx Doh....
+
+BEGIN CONVERSATION 3 FOR POSTING 9434
+
+COMMENT 74  REFERS TO: ORIGINAL POSTING   CONVERSATION 3   LEVEL 0
+USER: USER_64
+
+xxx Lol..I'm so tired of rants from people that don't get Twitter. Just don't use it, then. 
+<IMAGE/> 
+
+COMMENT 75  REFERS TO: COMMENT 74   CONVERSATION 3   LEVEL 1
+USER: USER_65
+
+xxxxxxx You should have read it. Or at least the last 2 paragraphs that summarized what the point 
+of the post was.
+
+COMMENT 76  REFERS TO: COMMENT 75   CONVERSATION 3   LEVEL 2
+USER: USER_64
+
+xxxxxxxxxxx I did. I've heard it all before. Anyhoo....why do I tweet? I tweet because I'm too 
+lazy/uninteresting to write blogs. That's it.
+
+And I like to follow interesting ppl. Not ppl I know in particular, but them also..although that's 
+what facebook is for. Oh..and changing status too often on facebook will piss ppl off.
+
+Also, I look for tweets about my company as well as watch trending topics....
+
+I like it. Sorry <IMAGE/> 
+
+COMMENT 77  REFERS TO: COMMENT 76   CONVERSATION 3   LEVEL 3
+USER: USER_65
+
+xxxxxxxxxxxxxxx See? Now you're being productive. <IMAGE/> 
+
+COMMENT 78  REFERS TO: COMMENT 77   CONVERSATION 3   LEVEL 4
+USER: USER_64
+
+xxxxxxxxxxxxxxxxxxx I feel dirty now <IMAGE/> 
+
+COMMENT 79  REFERS TO: COMMENT 74   CONVERSATION 3   LEVEL 1
+USER: USER_16
+
+xxxxxxx Lol..I’m so tired of rants from people that don’t “get” people who don't get Twitter.
+
+They are not insulting you or your being....  Step down from the table, you are still a good person.
+
+COMMENT 80  REFERS TO: COMMENT 79   CONVERSATION 3   LEVEL 2
+USER: USER_66
+
+xxxxxxxxxxx I love this comment.  <IMAGE/> 
+
+COMMENT 81  REFERS TO: COMMENT 79   CONVERSATION 3   LEVEL 2
+USER: USER_64
+
+xxxxxxxxxxx lol just tired of ppl demanding me to justify myself for using a service. He's doing 
+the exact thing that he thinks is annoying himself.
+
+COMMENT 82  REFERS TO: COMMENT 81   CONVERSATION 3   LEVEL 3
+USER: USER_2
+
+xxxxxxxxxxxxxxx Hey, I said very specifically that these are simply my own personal reasons for not 
+using twitter. I think they're good reasons and you're free to disagree. Remember, the first thing 
+I said was that I believe in twitter and I believe people really do find it useful -- just not me.
+
+COMMENT 83  REFERS TO: COMMENT 82   CONVERSATION 3   LEVEL 4
+USER: USER_67
+
+xxxxxxxxxxxxxxxxxxx Thank you so much for writing this. Twitter is contributing mightily to the 
+further retardation of people everywhere.  You know the type of people who would just as soon pass 
+out rather than read a paragraph. <IMAGE/> 
+
+BEGIN CONVERSATION 4 FOR POSTING 9434
+
+COMMENT 84  REFERS TO: ORIGINAL POSTING   CONVERSATION 4   LEVEL 0
+USER: USER_68
+
+xxx I believe twitter is more of a link to news site.  Meaning that most of my 140 characters are 
+usually used for a hyperlink to some information I believe is useful (to me at least, and 
+therefore, hopefully useful to others).  I was a big opponent of twitter until I started using it 
+regularly and following the people that I find interesting.
+
+Also, often times the news I get on twitter comes to me faster than the main stream news sites.  
+Considering the availability of information today, this is probably one of the biggest selling 
+points for others as well.
+
+BEGIN CONVERSATION 5 FOR POSTING 9434
+
+COMMENT 85  REFERS TO: ORIGINAL POSTING   CONVERSATION 5   LEVEL 0
+USER: USER_69
+
+xxx I tweet because well, I really don't tweet. I read tweets and follow the trends. I like the 
+fact I can see what's the latest thing going on; and search real-time deeper. I like the fact, I 
+can get first person views on things. I like following celebrities, CEOs, etc. to see how their 
+lifestyles are. I follow all my friends and I can know exactly what's going on by watching their 
+tweets and what they plan to do that night or what's going on during the week.
+
+I have TechCrunch on sms alerts to my phone for any tweets. I feel like I am always in the loop.
+
+James F.
+
+Owner, <URL/> TwitterBackground.com -- Free Twitter backgrounds
+
+COMMENT 86  REFERS TO: COMMENT 85   CONVERSATION 5   LEVEL 1
+USER: USER_12
+
+xxxxxxx Kind of makes sense you would be interested in what is going on with twitter, since you 
+have a twitter-focused web site. Have you received any VC funding yet??
+
+BEGIN CONVERSATION 6 FOR POSTING 9434
+
+COMMENT 87  REFERS TO: ORIGINAL POSTING   CONVERSATION 6   LEVEL 0
+USER: USER_70
+
+xxx Global poll being taken:
+
+Do you use Twitter? -- Answer it at <URL/> http://qulse.com/q.jsp?id=18
+
+BEGIN CONVERSATION 7 FOR POSTING 9434
+
+COMMENT 88  REFERS TO: ORIGINAL POSTING   CONVERSATION 7   LEVEL 0
+USER: USER_71
+
+xxx Twitter is cool and all.  But i cringe when i hear some one say it on TV.  Like that old idiot 
+on Pardon the Interuption.  He contined to say, Do you tweet.  I just wanted to punch him in the 
+face.  ughhhhh
+
+COMMENT 89  REFERS TO: COMMENT 88   CONVERSATION 7   LEVEL 1
+USER: USER_72
+
+xxxxxxx I am so sick and tired of CNN's Rick Sanchez and Josh Levs acting like Twitter is the 
+greatest thing since pants....if I hear Rick reference the Twitter board one more time...
+
+BEGIN CONVERSATION 8 FOR POSTING 9434
+
+COMMENT 90  REFERS TO: ORIGINAL POSTING   CONVERSATION 8   LEVEL 0
+USER: USER_2
+
+xxx Are you guys all part of the same speed reading club?!
+
+COMMENT 91  REFERS TO: COMMENT 90   CONVERSATION 8   LEVEL 1
+USER: USER_40
+
+xxxxxxx Well ironically, since I follow TC on twitter, I got to reading right away!
+
+COMMENT 92  REFERS TO: COMMENT 91   CONVERSATION 8   LEVEL 2
+USER: USER_64
+
+xxxxxxxxxxx Same here <IMAGE/> 
+
+COMMENT 93  REFERS TO: COMMENT 90   CONVERSATION 8   LEVEL 1
+USER: USER_42
+
+xxxxxxx Who wants to read 1930 words by someone we never heard of before about `why I don't 
+tweet???'
+
+Of course we just skim read it.
+
+COMMENT 94  REFERS TO: COMMENT 93   CONVERSATION 8   LEVEL 2
+USER: USER_73
+
+xxxxxxxxxxx First of all I tweet, and I know why I do that.
+
+However that don't stop me from arguing that you can be so plain white. What you skim read was an 
+article explaining some points why twitter has it problems.
+
+And I must tell you I agree with some, not all, but with some of them. Because rather than say I 
+don't tweet, he really explained why.
+
+Twitter shouldn't be a cult and we must see it less bright side.
+
+My 2 cents
+
+COMMENT 95  REFERS TO: COMMENT 90   CONVERSATION 8   LEVEL 1
+USER: USER_43
+
+xxxxxxx Found your post on Twitter...,
+
+Without it your readership would be so weak dude.
+
+COMMENT 96  REFERS TO: COMMENT 95   CONVERSATION 8   LEVEL 2
+USER: USER_74
+
+xxxxxxxxxxx Uhhhh yeah, I'm pretty sure TechCrunch has had a sizable following for much longer than 
+Twitter has been around.
+
+In fact, it goes the other way. I didn't start using Twitter until TechCrunch started reporting so 
+heavily on it.
+
+COMMENT 97  REFERS TO: COMMENT 95   CONVERSATION 8   LEVEL 2
+USER: USER_75
+
+xxxxxxxxxxx Tom,
+
+Don't you know about things like RSS and Google Reader? It's really pathetic when someone in the 
+Internet era says, that Twitter is the only way you can find a blog post.
+
+COMMENT 98  REFERS TO: COMMENT 97   CONVERSATION 8   LEVEL 3
+USER: USER_76
+
+xxxxxxxxxxxxxxx Amen!
+
+COMMENT 99  REFERS TO: COMMENT 97   CONVERSATION 8   LEVEL 3
+USER: USER_77
+
+xxxxxxxxxxxxxxx +1000 seriously people
+
+COMMENT 100  REFERS TO: COMMENT 90   CONVERSATION 8   LEVEL 1
+USER: USER_1
+
+xxxxxxx Are you kidding? Did you think we Tech Crunch readers actually read the articles?  We look 
+at your pictures and deduce the point of your post from them and them alone... psssss... read... 
+HAHAHA.... anything more than 140 characters is just boring.
