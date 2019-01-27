@@ -9,20 +9,20 @@ import re
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 import argparse
-from fastai import *
-from fastai.text import * 
 import torch
+# from fastai import *
+# from fastai.text import * 
 
 def import_data(path):
 
     # import labeled data
-    data_android = pd.read_csv(os.path.join(path,"android100.turker1.txt"),sep = "	")
+    data_android = pd.read_csv(os.path.join(path,"android100.turker1.txt"),sep = "\t")
     data_android_matrix = np.asarray(data_android)
-    data_ipad = pd.read_csv(os.path.join(path,"ipad100.turker1.txt"),sep = "	")
+    data_ipad = pd.read_csv(os.path.join(path,"ipad100.turker1.txt"),sep = "\t")
     data_ipad_matrix = np.asarray(data_ipad)
-    data_layoffs = pd.read_csv(os.path.join(path,"layoffs100.turker1.txt"),sep = " ")
+    data_layoffs = pd.read_csv(os.path.join(path,"layoffs100.turker1.txt"),sep = "\t")
     data_layoffs_matrix = np.asarray(data_layoffs)
-    data_twitter = pd.read_csv(os.path.join(path,"twitter.turker1.txt"),sep = " ")
+    data_twitter = pd.read_csv(os.path.join(path,"twitter.turker1.txt"),sep = "\t")
     data_twitter_matrix = np.asarray(data_twitter)   
     data = np.concatenate((data_android_matrix,data_ipad_matrix,data_layoffs_matrix,data_twitter_matrix),axis = 0)
 
@@ -61,12 +61,15 @@ def get_predictions(estimator, input_fn):
 
 def main(args):
 
+    print (args)
+
 
     df = import_data(args.data_path)
     df = df.sample(frac=1).reset_index(drop=True)
     train_df,test_df = train_test_split(df,train_size = 0.7,shuffle = True)
 
     if args.mode == "umfit":
+
 
         df.to_csv("./lm_data/test.csv",index = None)
 

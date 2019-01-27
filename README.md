@@ -1,5 +1,12 @@
 # LRCT
-Labeling the Relation between Callout and Target
+
+This project contains code to extract training examples from raw data and train classifier stack on ELMO,ULMFit,Google universal sentence encoder, and BERT.
+
+The BERT model was forked from BERT original repo. The specified fine-tune process is defined in the run_classifier.py.
+
+The other transfer learning framework are developed in train_elmo_umifit.py.
+
+
 
 
 
@@ -11,7 +18,8 @@ Labeling the Relation between Callout and Target
   year      = {2014},
 }
  
-and
+
+
 
 @InProceedings{ghosh-EtAl:2014:W14-21,
   author    = {Ghosh, Debanjan  and  Muresan, Smaranda  and  Wacholder, Nina  and  Aakhus, Mark  and  Mitsui, Matthew},
